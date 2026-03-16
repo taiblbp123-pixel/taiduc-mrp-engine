@@ -4,7 +4,13 @@
 __pycache__/
 *.pyc
 
+# Raw heavy txt from system
+data/from_PS/
+
+
 
 # Excel testing sandbox
 
 test_excel/
+# Ignore helper scripts
+helpers/
