@@ -1,0 +1,1177 @@
+,Item Code,Field,Field Value,MRP_element,overdue,total,Y22W52,Y23W01,Y23W02,Y23W03,Y23W04,Y23W05
+0,TRB-405,Item Code,TRB-405,Gross Req,0.0,174.0,0.0,47.0,63.0,2.0,62.0,0.0
+1,TRB-405,Description,140mm Trail Mountain Bike - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TRB-405,Current stock,23.0,planned_receipt,0.0,287.0,0.0,130.0,57.0,50.0,50.0,0.0
+3,TRB-405,Lead Time,3,planned_release,0.0,287.0,80.0,107.0,50.0,0.0,50.0,0.0
+4,TRB-405,Safety Stock,100,Balance,23.0,-151.0,23.0,-24.0,-87.0,-89.0,-151.0,-151.0
+5,TRB-405,Order Policy,FOQ,Balance (+SR),23.0,-151.0,23.0,-24.0,-87.0,-89.0,-151.0,-151.0
+6,TRB-405,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),23.0,136.0,23.0,106.0,100.0,148.0,136.0,136.0
+7,TRB-405,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),23.0,-71.0,23.0,56.0,-7.0,-9.0,-71.0,-71.0
+8,XCB-107,Item Code,XCB-107,Gross Req,0.0,195.0,0.0,106.0,42.0,1.0,46.0,0.0
+9,XCB-107,Description,110mm XC Mountain Bike - Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,XCB-107,Current stock,10.0,planned_receipt,0.0,295.0,0.0,245.0,0.0,0.0,50.0,0.0
+11,XCB-107,Lead Time,3,planned_release,0.0,295.0,195.0,50.0,0.0,50.0,0.0,0.0
+12,XCB-107,Safety Stock,100,Balance,10.0,-185.0,10.0,-96.0,-138.0,-139.0,-185.0,-185.0
+13,XCB-107,Order Policy,FOQ,Balance (+SR),10.0,-185.0,10.0,-96.0,-138.0,-139.0,-185.0,-185.0
+14,XCB-107,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),10.0,110.0,10.0,149.0,107.0,106.0,110.0,110.0
+15,XCB-107,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),10.0,10.0,10.0,99.0,57.0,56.0,10.0,10.0
+16,ENB-705,Item Code,ENB-705,Gross Req,0.0,6.0,0.0,3.0,3.0,0.0,0.0,0.0
+17,ENB-705,Description,170mm Enduro Mountain Bike - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,ENB-705,Current stock,33.0,planned_receipt,0.0,120.0,0.0,70.0,50.0,0.0,0.0,0.0
+19,ENB-705,Lead Time,3,planned_release,0.0,120.0,0.0,70.0,50.0,0.0,0.0,0.0
+20,ENB-705,Safety Stock,100,Balance,33.0,27.0,33.0,30.0,27.0,27.0,27.0,27.0
+21,ENB-705,Order Policy,FOQ,Balance (+SR),33.0,27.0,33.0,30.0,27.0,27.0,27.0,27.0
+22,ENB-705,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),33.0,147.0,33.0,100.0,147.0,147.0,147.0,147.0
+23,ENB-705,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),33.0,97.0,33.0,100.0,97.0,97.0,97.0,97.0
+24,XCB-105,Item Code,XCB-105,Gross Req,0.0,160.0,0.0,2.0,52.0,1.0,41.0,64.0
+25,XCB-105,Description,110mm XC Mountain Bike - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,XCB-105,Current stock,14.0,planned_receipt,0.0,246.0,0.0,88.0,100.0,0.0,0.0,58.0
+27,XCB-105,Lead Time,3,planned_release,0.0,306.0,0.0,88.0,100.0,0.0,58.0,60.0
+28,XCB-105,Safety Stock,100,Balance,14.0,-146.0,14.0,12.0,-40.0,-41.0,-82.0,-146.0
+29,XCB-105,Order Policy,FOQ,Balance (+SR),14.0,-146.0,14.0,12.0,-40.0,-41.0,-82.0,-146.0
+30,XCB-105,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),14.0,100.0,14.0,100.0,148.0,147.0,106.0,100.0
+31,XCB-105,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),14.0,-58.0,14.0,100.0,48.0,47.0,6.0,-58.0
+32,GRB-005,Item Code,GRB-005,Gross Req,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0
+33,GRB-005,Description,20GR Gravel Bike - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,GRB-005,Current stock,7.0,planned_receipt,0.0,144.0,0.0,94.0,50.0,0.0,0.0,0.0
+35,GRB-005,Lead Time,3,planned_release,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+36,GRB-005,Safety Stock,100,Balance,7.0,5.0,7.0,6.0,5.0,5.0,5.0,5.0
+37,GRB-005,Order Policy,FOQ,Balance (+SR),7.0,5.0,7.0,6.0,5.0,5.0,5.0,5.0
+38,GRB-005,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),7.0,149.0,7.0,100.0,149.0,149.0,149.0,149.0
+39,GRB-005,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),7.0,99.0,7.0,100.0,99.0,99.0,99.0,99.0
+40,ENB-703,Item Code,ENB-703,Gross Req,0.0,116.0,0.0,60.0,56.0,0.0,0.0,0.0
+41,ENB-703,Description,170mm Enduro Mountain Bike - Small,Scheduled Rcpt,0.0,44.0,44.0,0.0,0.0,0.0,0.0,0.0
+42,ENB-703,Current stock,10.0,planned_receipt,0.0,205.0,50.0,105.0,50.0,0.0,0.0,0.0
+43,ENB-703,Lead Time,3,planned_release,50.0,155.0,0.0,105.0,50.0,0.0,0.0,0.0
+44,ENB-703,Safety Stock,100,Balance,10.0,-106.0,10.0,-50.0,-106.0,-106.0,-106.0,-106.0
+45,ENB-703,Order Policy,FOQ,Balance (+SR),10.0,-62.0,54.0,-6.0,-62.0,-62.0,-62.0,-62.0
+46,ENB-703,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),10.0,143.0,104.0,149.0,143.0,143.0,143.0,143.0
+47,ENB-703,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),10.0,-12.0,104.0,44.0,-12.0,-12.0,-12.0,-12.0
+48,TRB-407,Item Code,TRB-407,Gross Req,0.0,285.0,0.0,2.0,145.0,53.0,36.0,49.0
+49,TRB-407,Description,140mm Trail Mountain Bike - Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,TRB-407,Current stock,14.0,planned_receipt,0.0,393.0,0.0,88.0,155.0,50.0,50.0,50.0
+51,TRB-407,Lead Time,3,planned_release,88.0,355.0,0.0,50.0,155.0,50.0,50.0,50.0
+52,TRB-407,Safety Stock,100,Balance,14.0,-271.0,14.0,12.0,-133.0,-186.0,-222.0,-271.0
+53,TRB-407,Order Policy,FOQ,Balance (+SR),14.0,-271.0,14.0,12.0,-133.0,-186.0,-222.0,-271.0
+54,TRB-407,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),14.0,122.0,14.0,100.0,110.0,107.0,121.0,122.0
+55,TRB-407,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),14.0,-183.0,14.0,100.0,-45.0,-98.0,-134.0,-183.0
+56,GRB-003,Item Code,GRB-003,Gross Req,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0
+57,GRB-003,Description,20GR Gravel Bike - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,GRB-003,Current stock,7.0,planned_receipt,0.0,144.0,0.0,94.0,50.0,0.0,0.0,0.0
+59,GRB-003,Lead Time,3,planned_release,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+60,GRB-003,Safety Stock,100,Balance,7.0,5.0,7.0,6.0,5.0,5.0,5.0,5.0
+61,GRB-003,Order Policy,FOQ,Balance (+SR),7.0,5.0,7.0,6.0,5.0,5.0,5.0,5.0
+62,GRB-003,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),7.0,149.0,7.0,100.0,149.0,149.0,149.0,149.0
+63,GRB-003,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),7.0,99.0,7.0,100.0,99.0,99.0,99.0,99.0
+64,TRB-403,Item Code,TRB-403,Gross Req,0.0,112.0,0.0,2.0,54.0,1.0,0.0,55.0
+65,TRB-403,Description,140mm Trail Mountain Bike - Small,Scheduled Rcpt,0.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0
+66,TRB-403,Current stock,8.0,planned_receipt,0.0,197.0,0.0,94.0,50.0,0.0,0.0,53.0
+67,TRB-403,Lead Time,3,planned_release,94.0,103.0,0.0,50.0,0.0,0.0,53.0,0.0
+68,TRB-403,Safety Stock,100,Balance,8.0,-104.0,8.0,6.0,-48.0,-49.0,-49.0,-104.0
+69,TRB-403,Order Policy,FOQ,Balance (+SR),8.0,-97.0,8.0,13.0,-41.0,-42.0,-42.0,-97.0
+70,TRB-403,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),8.0,100.0,8.0,107.0,103.0,102.0,102.0,100.0
+71,TRB-403,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),8.0,-3.0,8.0,107.0,53.0,52.0,52.0,-3.0
+72,ENB-707,Item Code,ENB-707,Gross Req,0.0,56.0,0.0,3.0,53.0,0.0,0.0,0.0
+73,ENB-707,Description,170mm Enduro Mountain Bike - Large,Scheduled Rcpt,0.0,84.0,36.0,48.0,0.0,0.0,0.0,0.0
+74,ENB-707,Current stock,27.0,planned_receipt,0.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0
+75,ENB-707,Lead Time,3,planned_release,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,ENB-707,Safety Stock,100,Balance,27.0,-29.0,27.0,24.0,-29.0,-29.0,-29.0,-29.0
+77,ENB-707,Order Policy,FOQ,Balance (+SR),27.0,55.0,63.0,108.0,55.0,55.0,55.0,55.0
+78,ENB-707,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),27.0,105.0,113.0,158.0,105.0,105.0,105.0,105.0
+79,ENB-707,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),27.0,105.0,113.0,158.0,105.0,105.0,105.0,105.0
+80,XCB-103,Item Code,XCB-103,Gross Req,0.0,411.0,0.0,104.0,101.0,109.0,97.0,0.0
+81,XCB-103,Description,110mm XC Mountain Bike - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,XCB-103,Current stock,17.0,planned_receipt,0.0,503.0,0.0,187.0,103.0,109.0,104.0,0.0
+83,XCB-103,Lead Time,3,planned_release,129.0,374.0,0.0,161.0,0.0,109.0,104.0,0.0
+84,XCB-103,Safety Stock,100,Balance,17.0,-394.0,17.0,-87.0,-188.0,-297.0,-394.0,-394.0
+85,XCB-103,Order Policy,FOQ,Balance (+SR),17.0,-394.0,17.0,-87.0,-188.0,-297.0,-394.0,-394.0
+86,XCB-103,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),17.0,109.0,17.0,100.0,102.0,102.0,109.0,109.0
+87,XCB-103,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),17.0,-265.0,17.0,42.0,-59.0,-168.0,-265.0,-265.0
+88,TAIDUC-001,Item Code,TAIDUC-001,Gross Req,0.0,126729.0,888.0,50487.0,42854.0,32500.0,0.0,0.0
+89,TAIDUC-001,Description,"Trading RM, Pokemon Fish 001",Scheduled Rcpt,0.0,50000.0,5000.0,35000.0,10000.0,0.0,0.0,0.0
+90,TAIDUC-001,Current stock,0.0,planned_receipt,0.0,80000.0,0.0,35000.0,45000.0,0.0,0.0,0.0
+91,TAIDUC-001,Lead Time,7,planned_release,35000.0,45000.0,0.0,45000.0,0.0,0.0,0.0,0.0
+92,TAIDUC-001,Safety Stock,0,Balance,0.0,-126729.0,-888.0,-51375.0,-94229.0,-126729.0,-126729.0,-126729.0
+93,TAIDUC-001,Order Policy,MIN_MAX,Balance (+SR),0.0,-76729.0,4112.0,-11375.0,-44229.0,-76729.0,-76729.0,-76729.0
+94,TAIDUC-001,Rounding Value / MOQ,[5000/ 5000],Balance(+SR+PR),0.0,3271.0,4112.0,23625.0,35771.0,3271.0,3271.0,3271.0
+95,TAIDUC-001,Cover Days / Week Day / Max Level,[nan/ nan/ 30000.0],Balance(+SR+1st PR),0.0,-41729.0,4112.0,23625.0,-9229.0,-41729.0,-41729.0,-41729.0
+96,TAIDUC-002,Item Code,TAIDUC-002,Gross Req,2896.0,4104.0,129.0,723.0,1045.0,1158.0,846.0,203.0
+97,TAIDUC-002,Description,"Trading RM, Pokemon Fish 002",Scheduled Rcpt,0.0,220.0,0.0,120.0,0.0,100.0,0.0,0.0
+98,TAIDUC-002,Current stock,392.0,planned_receipt,3240.0,4420.0,0.0,620.0,1140.0,920.0,940.0,800.0
+99,TAIDUC-002,Lead Time,21,planned_release,5920.0,4700.0,0.0,940.0,800.0,620.0,1300.0,1040.0
+100,TAIDUC-002,Safety Stock,500,Balance,-2504.0,-6608.0,-2633.0,-3356.0,-4401.0,-5559.0,-6405.0,-6608.0
+101,TAIDUC-002,Order Policy,WEEKLY_CALENDAR,Balance (+SR),-2504.0,-6388.0,-2633.0,-3236.0,-4281.0,-5339.0,-6185.0,-6388.0
+102,TAIDUC-002,Rounding Value / MOQ,[20/ 60],Balance(+SR+PR),736.0,1272.0,607.0,624.0,719.0,581.0,675.0,1272.0
+103,TAIDUC-002,Cover Days / Week Day / Max Level,[nan/ Tuesday/ nan],Balance(+SR+1st PR),-2384.0,-6268.0,-2513.0,-3116.0,-4161.0,-5219.0,-6065.0,-6268.0
+104,GRB-007,Item Code,GRB-007,Gross Req,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0
+105,GRB-007,Description,20GR Gravel Bike - Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,GRB-007,Current stock,9.0,planned_receipt,0.0,142.0,0.0,92.0,0.0,50.0,0.0,0.0
+107,GRB-007,Lead Time,3,planned_release,0.0,142.0,0.0,92.0,0.0,50.0,0.0,0.0
+108,GRB-007,Safety Stock,100,Balance,9.0,7.0,9.0,8.0,8.0,7.0,7.0,7.0
+109,GRB-007,Order Policy,FOQ,Balance (+SR),9.0,7.0,9.0,8.0,8.0,7.0,7.0,7.0
+110,GRB-007,Rounding Value / MOQ,[1/ 50],Balance(+SR+PR),9.0,149.0,9.0,100.0,100.0,149.0,149.0,149.0
+111,GRB-007,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),9.0,99.0,9.0,100.0,100.0,99.0,99.0,99.0
+112,XCF-103,Item Code,XCF-103,Gross Req,129.0,815.0,0.0,202.0,145.0,170.0,260.0,38.0
+113,XCF-103,Description,110mm XC Frameset - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,XCF-103,Current stock,12.0,planned_receipt,117.0,815.0,0.0,202.0,145.0,170.0,260.0,38.0
+115,XCF-103,Lead Time,7,planned_release,228.0,846.0,91.0,145.0,170.0,260.0,78.0,102.0
+116,XCF-103,Safety Stock,0,Balance,-117.0,-932.0,-117.0,-319.0,-464.0,-634.0,-894.0,-932.0
+117,XCF-103,Order Policy,FOQ,Balance (+SR),-117.0,-932.0,-117.0,-319.0,-464.0,-634.0,-894.0,-932.0
+118,XCF-103,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,XCF-103,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-815.0,0.0,-202.0,-347.0,-517.0,-777.0,-815.0
+120,SPR-185,Item Code,SPR-185,Gross Req,88.0,762.0,80.0,227.0,255.0,50.0,100.0,50.0
+121,SPR-185,Description,BikeYoke Revive 2.0 185mm Seatpost,Scheduled Rcpt,0.0,20.0,0.0,0.0,20.0,0.0,0.0,0.0
+122,SPR-185,Current stock,109.0,planned_receipt,0.0,725.0,60.0,230.0,235.0,50.0,100.0,50.0
+123,SPR-185,Lead Time,21,planned_release,575.0,450.0,0.0,100.0,150.0,100.0,50.0,50.0
+124,SPR-185,Safety Stock,0,Balance,21.0,-741.0,-59.0,-286.0,-541.0,-591.0,-691.0,-741.0
+125,SPR-185,Order Policy,FOQ,Balance (+SR),21.0,-721.0,-59.0,-286.0,-521.0,-571.0,-671.0,-721.0
+126,SPR-185,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),21.0,4.0,1.0,4.0,4.0,4.0,4.0,4.0
+127,SPR-185,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),21.0,-661.0,1.0,-226.0,-461.0,-511.0,-611.0,-661.0
+128,BRK-404,Item Code,BRK-404,Gross Req,228.0,323.0,0.0,175.0,100.0,0.0,0.0,48.0
+129,BRK-404,Description,Formula Cura 4 Disc Brake Rear,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,BRK-404,Current stock,121.0,planned_receipt,110.0,320.0,0.0,175.0,100.0,0.0,0.0,45.0
+131,BRK-404,Lead Time,30,planned_release,385.0,225.0,45.0,0.0,40.0,40.0,50.0,50.0
+132,BRK-404,Safety Stock,0,Balance,-107.0,-430.0,-107.0,-282.0,-382.0,-382.0,-382.0,-430.0
+133,BRK-404,Order Policy,FOQ,Balance (+SR),-107.0,-430.0,-107.0,-282.0,-382.0,-382.0,-382.0,-430.0
+134,BRK-404,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),3.0,0.0,3.0,3.0,3.0,3.0,3.0,0.0
+135,BRK-404,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-47.0,-370.0,-47.0,-222.0,-322.0,-322.0,-322.0,-370.0
+136,MEC-913,Item Code,MEC-913,Gross Req,129.0,1405.0,195.0,679.0,100.0,209.0,162.0,60.0
+137,MEC-913,Description,Shimano XTR M8000 Derailleur 12 speed,Scheduled Rcpt,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0
+138,MEC-913,Current stock,58.0,planned_receipt,75.0,1385.0,195.0,655.0,100.0,210.0,165.0,60.0
+139,MEC-913,Lead Time,10,planned_release,1025.0,590.0,0.0,160.0,105.0,220.0,105.0,0.0
+140,MEC-913,Safety Stock,0,Balance,-71.0,-1476.0,-266.0,-945.0,-1045.0,-1254.0,-1416.0,-1476.0
+141,MEC-913,Order Policy,FOQ,Balance (+SR),-71.0,-1456.0,-266.0,-925.0,-1025.0,-1234.0,-1396.0,-1456.0
+142,MEC-913,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),4.0,4.0,4.0,0.0,0.0,1.0,4.0,4.0
+143,MEC-913,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),4.0,-1381.0,-191.0,-850.0,-950.0,-1159.0,-1321.0,-1381.0
+144,FRK-829,Item Code,FRK-829,Gross Req,134.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+145,FRK-829,Description,RockShox Zeb Ultimate fork 295,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,FRK-829,Current stock,39.0,planned_receipt,95.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+147,FRK-829,Lead Time,7,planned_release,165.0,98.0,0.0,50.0,0.0,0.0,48.0,0.0
+148,FRK-829,Safety Stock,0,Balance,-95.0,-263.0,-95.0,-165.0,-215.0,-215.0,-215.0,-263.0
+149,FRK-829,Order Policy,FOQ,Balance (+SR),-95.0,-263.0,-95.0,-165.0,-215.0,-215.0,-215.0,-263.0
+150,FRK-829,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+151,FRK-829,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,-216.0,-48.0,-118.0,-168.0,-168.0,-168.0,-216.0
+152,WLS-427,Item Code,WLS-427,Gross Req,188.0,730.0,0.0,320.0,196.0,3.0,133.0,78.0
+153,WLS-427,Description,Wheelset 275 with Enduro/Trail Wide rims,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,WLS-427,Current stock,53.0,planned_receipt,135.0,730.0,0.0,320.0,196.0,4.0,132.0,78.0
+155,WLS-427,Lead Time,3,planned_release,311.0,612.0,0.0,228.0,112.0,4.0,268.0,0.0
+156,WLS-427,Safety Stock,0,Balance,-135.0,-865.0,-135.0,-455.0,-651.0,-654.0,-787.0,-865.0
+157,WLS-427,Order Policy,FOQ,Balance (+SR),-135.0,-865.0,-135.0,-455.0,-651.0,-654.0,-787.0,-865.0
+158,WLS-427,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+159,WLS-427,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-94.0,-824.0,-94.0,-414.0,-610.0,-613.0,-746.0,-824.0
+160,SHX-709,Item Code,SHX-709,Gross Req,228.0,323.0,0.0,175.0,100.0,0.0,0.0,48.0
+161,SHX-709,Description,RockShox Super Deluxe Ultimate Coil RCT,Scheduled Rcpt,0.0,20.0,0.0,0.0,0.0,20.0,0.0,0.0
+162,SHX-709,Current stock,85.0,planned_receipt,145.0,305.0,0.0,175.0,100.0,0.0,0.0,30.0
+163,SHX-709,Lead Time,14,planned_release,420.0,65.0,0.0,0.0,0.0,30.0,35.0,0.0
+164,SHX-709,Safety Stock,0,Balance,-143.0,-466.0,-143.0,-318.0,-418.0,-418.0,-418.0,-466.0
+165,SHX-709,Order Policy,FOQ,Balance (+SR),-143.0,-446.0,-143.0,-318.0,-418.0,-398.0,-398.0,-446.0
+166,SHX-709,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),2.0,4.0,2.0,2.0,2.0,22.0,22.0,4.0
+167,SHX-709,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,-351.0,-48.0,-223.0,-323.0,-303.0,-303.0,-351.0
+168,GTP-100,Item Code,GTP-100,Gross Req,0.0,430.0,0.0,380.0,0.0,50.0,0.0,0.0
+169,GTP-100,Description,Grip Tape,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,GTP-100,Current stock,41.0,planned_receipt,0.0,390.0,0.0,340.0,0.0,50.0,0.0,0.0
+171,GTP-100,Lead Time,30,planned_release,390.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,GTP-100,Safety Stock,0,Balance,41.0,-389.0,41.0,-339.0,-339.0,-389.0,-389.0,-389.0
+173,GTP-100,Order Policy,FOQ,Balance (+SR),41.0,-389.0,41.0,-339.0,-339.0,-389.0,-389.0,-389.0
+174,GTP-100,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),41.0,1.0,41.0,1.0,1.0,1.0,1.0,1.0
+175,GTP-100,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),41.0,-149.0,41.0,-99.0,-99.0,-149.0,-149.0,-149.0
+176,TYR-829,Item Code,TYR-829,Gross Req,134.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+177,TYR-829,Description,"Maxxis Minion DHR II Folding Tyre 29x2.50""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,TYR-829,Current stock,100.0,planned_receipt,34.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+179,TYR-829,Lead Time,30,planned_release,154.0,184.0,48.0,0.0,36.0,0.0,50.0,50.0
+180,TYR-829,Safety Stock,0,Balance,-34.0,-202.0,-34.0,-104.0,-154.0,-154.0,-154.0,-202.0
+181,TYR-829,Order Policy,FOQ,Balance (+SR),-34.0,-202.0,-34.0,-104.0,-154.0,-154.0,-154.0,-202.0
+182,TYR-829,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,TYR-829,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-168.0,0.0,-70.0,-120.0,-120.0,-120.0,-168.0
+184,TYR-427,Item Code,TYR-427,Gross Req,188.0,220.0,0.0,114.0,0.0,0.0,106.0,0.0
+185,TYR-427,Description,"Maxxis Aggressor DHF Folding Tyre 27.5x2.35""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186,TYR-427,Current stock,46.0,planned_receipt,142.0,220.0,0.0,114.0,0.0,0.0,106.0,0.0
+187,TYR-427,Lead Time,30,planned_release,362.0,106.0,0.0,0.0,0.0,106.0,0.0,0.0
+188,TYR-427,Safety Stock,0,Balance,-142.0,-362.0,-142.0,-256.0,-256.0,-256.0,-362.0,-362.0
+189,TYR-427,Order Policy,FOQ,Balance (+SR),-142.0,-362.0,-142.0,-256.0,-256.0,-256.0,-362.0,-362.0
+190,TYR-427,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,TYR-427,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-220.0,0.0,-114.0,-114.0,-114.0,-220.0,-220.0
+192,ACR-034,Item Code,ACR-034,Gross Req,182.0,752.0,80.0,214.0,205.0,50.0,153.0,50.0
+193,ACR-034,Description,Chainring 34T Alloy SB,Scheduled Rcpt,0.0,276.0,206.0,45.0,25.0,0.0,0.0,0.0
+194,ACR-034,Current stock,67.0,planned_receipt,115.0,480.0,0.0,45.0,180.0,50.0,155.0,50.0
+195,ACR-034,Lead Time,14,planned_release,340.0,350.0,0.0,50.0,155.0,105.0,0.0,40.0
+196,ACR-034,Safety Stock,0,Balance,-115.0,-867.0,-195.0,-409.0,-614.0,-664.0,-817.0,-867.0
+197,ACR-034,Order Policy,FOQ,Balance (+SR),-115.0,-591.0,11.0,-158.0,-338.0,-388.0,-541.0,-591.0
+198,ACR-034,Rounding Value / MOQ,[5/ 10],Balance(+SR+PR),0.0,4.0,126.0,2.0,2.0,2.0,4.0,4.0
+199,ACR-034,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-85.0,-561.0,41.0,-128.0,-308.0,-358.0,-511.0,-561.0
+200,HBM-750,Item Code,HBM-750,Gross Req,276.0,914.0,80.0,323.0,258.0,50.0,153.0,50.0
+201,HBM-750,Description,Handlebars Enduro/Trail 750mm,Scheduled Rcpt,0.0,99.0,40.0,59.0,0.0,0.0,0.0,0.0
+202,HBM-750,Current stock,96.0,planned_receipt,180.0,815.0,40.0,264.0,258.0,50.0,153.0,50.0
+203,HBM-750,Lead Time,3,planned_release,323.0,722.0,6.0,213.0,200.0,100.0,153.0,50.0
+204,HBM-750,Safety Stock,0,Balance,-180.0,-1094.0,-260.0,-583.0,-841.0,-891.0,-1044.0,-1094.0
+205,HBM-750,Order Policy,FOQ,Balance (+SR),-180.0,-995.0,-220.0,-484.0,-742.0,-792.0,-945.0,-995.0
+206,HBM-750,Rounding Value / MOQ,[1/ 6],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,HBM-750,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-88.0,-903.0,-128.0,-392.0,-650.0,-700.0,-853.0,-903.0
+208,BRK-135,Item Code,BRK-135,Gross Req,0.0,430.0,0.0,380.0,0.0,50.0,0.0,0.0
+209,BRK-135,Description,Shimano GRX Disc Brake Rear,Scheduled Rcpt,0.0,219.0,219.0,0.0,0.0,0.0,0.0,0.0
+210,BRK-135,Current stock,21.0,planned_receipt,0.0,190.0,0.0,140.0,0.0,50.0,0.0,0.0
+211,BRK-135,Lead Time,10,planned_release,140.0,50.0,0.0,50.0,0.0,0.0,0.0,0.0
+212,BRK-135,Safety Stock,0,Balance,21.0,-409.0,21.0,-359.0,-359.0,-409.0,-409.0,-409.0
+213,BRK-135,Order Policy,FOQ,Balance (+SR),21.0,-190.0,240.0,-140.0,-140.0,-190.0,-190.0,-190.0
+214,BRK-135,Rounding Value / MOQ,[5/ 12],Balance(+SR+PR),21.0,0.0,240.0,0.0,0.0,0.0,0.0,0.0
+215,BRK-135,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),21.0,-150.0,240.0,-100.0,-100.0,-150.0,-150.0,-150.0
+216,WLS-723,Item Code,WLS-723,Gross Req,0.0,529.0,0.0,429.0,2.0,98.0,0.0,0.0
+217,WLS-723,Description,Wheelset 700c with 23mm rims,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218,WLS-723,Current stock,50.0,planned_receipt,0.0,479.0,0.0,379.0,4.0,96.0,0.0,0.0
+219,WLS-723,Lead Time,3,planned_release,230.0,249.0,0.0,149.0,52.0,48.0,0.0,0.0
+220,WLS-723,Safety Stock,0,Balance,50.0,-479.0,50.0,-379.0,-381.0,-479.0,-479.0,-479.0
+221,WLS-723,Order Policy,FOQ,Balance (+SR),50.0,-479.0,50.0,-379.0,-381.0,-479.0,-479.0,-479.0
+222,WLS-723,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),50.0,0.0,50.0,0.0,2.0,0.0,0.0,0.0
+223,WLS-723,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),50.0,-249.0,50.0,-149.0,-151.0,-249.0,-249.0,-249.0
+224,GRK-000,Item Code,GRK-000,Gross Req,0.0,488.0,0.0,380.0,0.0,50.0,58.0,0.0
+225,GRK-000,Description,20GR Gravel/CX Bike Carbon fork 700c,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,GRK-000,Current stock,16.0,planned_receipt,0.0,472.0,0.0,364.0,0.0,50.0,58.0,0.0
+227,GRK-000,Lead Time,7,planned_release,314.0,158.0,50.0,0.0,50.0,58.0,0.0,0.0
+228,GRK-000,Safety Stock,0,Balance,16.0,-472.0,16.0,-364.0,-364.0,-414.0,-472.0,-472.0
+229,GRK-000,Order Policy,FOQ,Balance (+SR),16.0,-472.0,16.0,-364.0,-364.0,-414.0,-472.0,-472.0
+230,GRK-000,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0
+231,GRK-000,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),16.0,-208.0,16.0,-100.0,-100.0,-150.0,-208.0,-208.0
+232,TRF-407,Item Code,TRF-407,Gross Req,88.0,456.0,0.0,50.0,155.0,50.0,151.0,50.0
+233,TRF-407,Description,140mm Trail Frameset - Large,Scheduled Rcpt,0.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0
+234,TRF-407,Current stock,10.0,planned_receipt,78.0,450.0,0.0,50.0,149.0,50.0,151.0,50.0
+235,TRF-407,Lead Time,7,planned_release,128.0,550.0,0.0,149.0,50.0,151.0,150.0,50.0
+236,TRF-407,Safety Stock,0,Balance,-78.0,-534.0,-78.0,-128.0,-283.0,-333.0,-484.0,-534.0
+237,TRF-407,Order Policy,FOQ,Balance (+SR),-78.0,-528.0,-78.0,-122.0,-277.0,-327.0,-478.0,-528.0
+238,TRF-407,Rounding Value / MOQ,[1/ 5],Balance(+SR+PR),0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+239,TRF-407,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-450.0,0.0,-44.0,-199.0,-249.0,-400.0,-450.0
+240,GRF-007,Item Code,GRF-007,Gross Req,0.0,142.0,0.0,92.0,0.0,50.0,0.0,0.0
+241,GRF-007,Description,20GR Gravel/CX Bike Frameset - Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,GRF-007,Current stock,5.0,planned_receipt,0.0,137.0,0.0,87.0,0.0,50.0,0.0,0.0
+243,GRF-007,Lead Time,7,planned_release,87.0,50.0,0.0,0.0,50.0,0.0,0.0,0.0
+244,GRF-007,Safety Stock,0,Balance,5.0,-137.0,5.0,-87.0,-87.0,-137.0,-137.0,-137.0
+245,GRF-007,Order Policy,FOQ,Balance (+SR),5.0,-137.0,5.0,-87.0,-87.0,-137.0,-137.0,-137.0
+246,GRF-007,Rounding Value / MOQ,[1/ 2],Balance(+SR+PR),5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+247,GRF-007,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),5.0,-50.0,5.0,0.0,0.0,-50.0,-50.0,-50.0
+248,HBG-440,Item Code,HBG-440,Gross Req,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+249,HBG-440,Description,Handlebars Gravel 440mm,Scheduled Rcpt,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0
+250,HBG-440,Current stock,6.0,planned_receipt,0.0,135.0,0.0,135.0,0.0,0.0,0.0,0.0
+251,HBG-440,Lead Time,7,planned_release,135.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,HBG-440,Safety Stock,0,Balance,6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+253,HBG-440,Order Policy,FOQ,Balance (+SR),6.0,-135.0,6.0,-135.0,-135.0,-135.0,-135.0,-135.0
+254,HBG-440,Rounding Value / MOQ,[1/ 2],Balance(+SR+PR),6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+255,HBG-440,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),6.0,-47.0,6.0,-47.0,-47.0,-47.0,-47.0,-47.0
+256,SDL-147,Item Code,SDL-147,Gross Req,129.0,1405.0,195.0,679.0,100.0,209.0,162.0,60.0
+257,SDL-147,Description,Koda TI Saddle black,Scheduled Rcpt,0.0,37.0,0.0,37.0,0.0,0.0,0.0,0.0
+258,SDL-147,Current stock,116.0,planned_receipt,20.0,1361.0,188.0,642.0,100.0,209.0,162.0,60.0
+259,SDL-147,Lead Time,30,planned_release,1321.0,691.0,60.0,108.0,107.0,50.0,366.0,0.0
+260,SDL-147,Safety Stock,0,Balance,-13.0,-1418.0,-208.0,-887.0,-987.0,-1196.0,-1358.0,-1418.0
+261,SDL-147,Order Policy,FOQ,Balance (+SR),-13.0,-1381.0,-208.0,-850.0,-950.0,-1159.0,-1321.0,-1381.0
+262,SDL-147,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,SDL-147,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),7.0,-1361.0,-188.0,-830.0,-930.0,-1139.0,-1301.0,-1361.0
+264,BRK-402,Item Code,BRK-402,Gross Req,228.0,323.0,0.0,175.0,100.0,0.0,0.0,48.0
+265,BRK-402,Description,Formula Cura 4 Disc Brake Front,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,BRK-402,Current stock,121.0,planned_receipt,110.0,320.0,0.0,175.0,100.0,0.0,0.0,45.0
+267,BRK-402,Lead Time,30,planned_release,385.0,225.0,45.0,0.0,40.0,40.0,50.0,50.0
+268,BRK-402,Safety Stock,0,Balance,-107.0,-430.0,-107.0,-282.0,-382.0,-382.0,-382.0,-430.0
+269,BRK-402,Order Policy,FOQ,Balance (+SR),-107.0,-430.0,-107.0,-282.0,-382.0,-382.0,-382.0,-430.0
+270,BRK-402,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),3.0,0.0,3.0,3.0,3.0,3.0,3.0,0.0
+271,BRK-402,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-47.0,-370.0,-47.0,-222.0,-322.0,-322.0,-322.0,-370.0
+272,ENF-707,Item Code,ENF-707,Gross Req,134.0,53.0,0.0,3.0,2.0,0.0,0.0,48.0
+273,ENF-707,Description,170mm Enduro Frameset - Large,Scheduled Rcpt,0.0,105.0,105.0,0.0,0.0,0.0,0.0,0.0
+274,ENF-707,Current stock,51.0,planned_receipt,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,ENF-707,Lead Time,3,planned_release,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,ENF-707,Safety Stock,0,Balance,-83.0,-136.0,-83.0,-86.0,-88.0,-88.0,-88.0,-136.0
+277,ENF-707,Order Policy,FOQ,Balance (+SR),-83.0,-31.0,22.0,19.0,17.0,17.0,17.0,-31.0
+278,ENF-707,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,52.0,105.0,102.0,100.0,100.0,100.0,52.0
+279,ENF-707,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,4.0,57.0,54.0,52.0,52.0,52.0,4.0
+280,SHX-708,Item Code,SHX-708,Gross Req,182.0,752.0,80.0,214.0,205.0,50.0,153.0,50.0
+281,SHX-708,Description,RockShox Super Deluxe Ultimate Air RCT,Scheduled Rcpt,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0
+282,SHX-708,Current stock,37.0,planned_receipt,145.0,735.0,80.0,215.0,185.0,50.0,155.0,50.0
+283,SHX-708,Lead Time,7,planned_release,440.0,590.0,0.0,185.0,50.0,155.0,150.0,50.0
+284,SHX-708,Safety Stock,0,Balance,-145.0,-897.0,-225.0,-439.0,-644.0,-694.0,-847.0,-897.0
+285,SHX-708,Order Policy,FOQ,Balance (+SR),-145.0,-877.0,-225.0,-419.0,-624.0,-674.0,-827.0,-877.0
+286,SHX-708,Rounding Value / MOQ,[5/ 17],Balance(+SR+PR),0.0,3.0,0.0,21.0,1.0,1.0,3.0,3.0
+287,SHX-708,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-85.0,-817.0,-165.0,-359.0,-564.0,-614.0,-767.0,-817.0
+288,TYR-229,Item Code,TYR-229,Gross Req,258.0,1950.0,390.0,598.0,200.0,318.0,324.0,120.0
+289,TYR-229,Description,"Maxxis Rekon Folding Tyre 29x2.20""",Scheduled Rcpt,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0
+290,TYR-229,Current stock,104.0,planned_receipt,155.0,1930.0,390.0,580.0,200.0,315.0,325.0,120.0
+291,TYR-229,Lead Time,14,planned_release,1325.0,1190.0,0.0,315.0,325.0,225.0,210.0,115.0
+292,TYR-229,Safety Stock,0,Balance,-154.0,-2104.0,-544.0,-1142.0,-1342.0,-1660.0,-1984.0,-2104.0
+293,TYR-229,Order Policy,FOQ,Balance (+SR),-154.0,-2084.0,-544.0,-1122.0,-1322.0,-1640.0,-1964.0,-2084.0
+294,TYR-229,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),1.0,1.0,1.0,3.0,3.0,0.0,1.0,1.0
+295,TYR-229,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),1.0,-1929.0,-389.0,-967.0,-1167.0,-1485.0,-1809.0,-1929.0
+296,CHN-513,Item Code,CHN-513,Gross Req,129.0,1405.0,195.0,679.0,100.0,209.0,162.0,60.0
+297,CHN-513,Description,KMC Chain X12SL Ti-N Chain,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+298,CHN-513,Current stock,116.0,planned_receipt,20.0,1398.0,188.0,679.0,100.0,209.0,162.0,60.0
+299,CHN-513,Lead Time,30,planned_release,1358.0,691.0,60.0,108.0,107.0,50.0,366.0,0.0
+300,CHN-513,Safety Stock,0,Balance,-13.0,-1418.0,-208.0,-887.0,-987.0,-1196.0,-1358.0,-1418.0
+301,CHN-513,Order Policy,FOQ,Balance (+SR),-13.0,-1418.0,-208.0,-887.0,-987.0,-1196.0,-1358.0,-1418.0
+302,CHN-513,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,CHN-513,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),7.0,-1398.0,-188.0,-867.0,-967.0,-1176.0,-1338.0,-1398.0
+304,SHX-410,Item Code,SHX-410,Gross Req,129.0,975.0,195.0,299.0,100.0,159.0,162.0,60.0
+305,SHX-410,Description,RockShox SIDLUXE Ultimate,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+306,SHX-410,Current stock,52.0,planned_receipt,80.0,975.0,195.0,300.0,100.0,155.0,165.0,60.0
+307,SHX-410,Lead Time,14,planned_release,675.0,595.0,0.0,155.0,165.0,110.0,105.0,60.0
+308,SHX-410,Safety Stock,0,Balance,-77.0,-1052.0,-272.0,-571.0,-671.0,-830.0,-992.0,-1052.0
+309,SHX-410,Order Policy,FOQ,Balance (+SR),-77.0,-1052.0,-272.0,-571.0,-671.0,-830.0,-992.0,-1052.0
+310,SHX-410,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),3.0,3.0,3.0,4.0,4.0,0.0,3.0,3.0
+311,SHX-410,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),3.0,-972.0,-192.0,-491.0,-591.0,-750.0,-912.0,-972.0
+312,AST-070,Item Code,AST-070,Gross Req,129.0,975.0,195.0,299.0,100.0,159.0,162.0,60.0
+313,AST-070,Description,Aluminium Stem 70mm,Scheduled Rcpt,0.0,13.0,0.0,13.0,0.0,0.0,0.0,0.0
+314,AST-070,Current stock,29.0,planned_receipt,100.0,962.0,195.0,286.0,100.0,159.0,162.0,60.0
+315,AST-070,Lead Time,7,planned_release,531.0,639.0,50.0,100.0,159.0,162.0,113.0,55.0
+316,AST-070,Safety Stock,0,Balance,-100.0,-1075.0,-295.0,-594.0,-694.0,-853.0,-1015.0,-1075.0
+317,AST-070,Order Policy,FOQ,Balance (+SR),-100.0,-1062.0,-295.0,-581.0,-681.0,-840.0,-1002.0,-1062.0
+318,AST-070,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,AST-070,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-962.0,-195.0,-481.0,-581.0,-740.0,-902.0,-962.0
+320,PDL-200,Item Code,PDL-200,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+321,PDL-200,Description,DMR Vault Pedals,Scheduled Rcpt,0.0,60.0,0.0,60.0,0.0,0.0,0.0,0.0
+322,PDL-200,Current stock,216.0,planned_receipt,200.0,1010.0,80.0,330.0,300.0,50.0,160.0,90.0
+323,PDL-200,Lead Time,30,planned_release,1170.0,690.0,40.0,150.0,140.0,150.0,160.0,50.0
+324,PDL-200,Safety Stock,0,Balance,-194.0,-1269.0,-274.0,-663.0,-968.0,-1018.0,-1171.0,-1269.0
+325,PDL-200,Order Policy,FOQ,Balance (+SR),-194.0,-1209.0,-274.0,-603.0,-908.0,-958.0,-1111.0,-1209.0
+326,PDL-200,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),6.0,1.0,6.0,7.0,2.0,2.0,9.0,1.0
+327,PDL-200,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-84.0,-1099.0,-164.0,-493.0,-798.0,-848.0,-1001.0,-1099.0
+328,BRK-202,Item Code,BRK-202,Gross Req,311.0,1727.0,275.0,513.0,305.0,209.0,315.0,110.0
+329,BRK-202,Description,Formula Cura Disc Brake Front,Scheduled Rcpt,0.0,191.0,166.0,0.0,25.0,0.0,0.0,0.0
+330,BRK-202,Current stock,170.0,planned_receipt,145.0,1535.0,105.0,515.0,280.0,210.0,315.0,110.0
+331,BRK-202,Lead Time,30,planned_release,1620.0,985.0,60.0,200.0,150.0,155.0,420.0,0.0
+332,BRK-202,Safety Stock,0,Balance,-141.0,-1868.0,-416.0,-929.0,-1234.0,-1443.0,-1758.0,-1868.0
+333,BRK-202,Order Policy,FOQ,Balance (+SR),-141.0,-1677.0,-250.0,-763.0,-1043.0,-1252.0,-1567.0,-1677.0
+334,BRK-202,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),4.0,3.0,0.0,2.0,2.0,3.0,3.0,3.0
+335,BRK-202,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),4.0,-1532.0,-105.0,-618.0,-898.0,-1107.0,-1422.0,-1532.0
+336,HBM-800,Item Code,HBM-800,Gross Req,134.0,178.0,0.0,75.0,55.0,0.0,0.0,48.0
+337,HBM-800,Description,Handlebars Enduro/Trail 800mm,Scheduled Rcpt,0.0,93.0,0.0,93.0,0.0,0.0,0.0,0.0
+338,HBM-800,Current stock,101.0,planned_receipt,33.0,85.0,0.0,0.0,38.0,0.0,0.0,47.0
+339,HBM-800,Lead Time,3,planned_release,33.0,85.0,0.0,38.0,0.0,0.0,47.0,0.0
+340,HBM-800,Safety Stock,0,Balance,-33.0,-211.0,-33.0,-108.0,-163.0,-163.0,-163.0,-211.0
+341,HBM-800,Order Policy,FOQ,Balance (+SR),-33.0,-118.0,-33.0,-15.0,-70.0,-70.0,-70.0,-118.0
+342,HBM-800,Rounding Value / MOQ,[1/ 6],Balance(+SR+PR),0.0,0.0,0.0,18.0,1.0,1.0,1.0,0.0
+343,HBM-800,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-85.0,0.0,18.0,-37.0,-37.0,-37.0,-85.0
+344,ENF-703,Item Code,ENF-703,Gross Req,94.0,372.0,0.0,105.0,51.0,164.0,52.0,0.0
+345,ENF-703,Description,170mm Enduro Frameset - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,ENF-703,Current stock,11.0,planned_receipt,83.0,372.0,0.0,105.0,54.0,161.0,52.0,0.0
+347,ENF-703,Lead Time,3,planned_release,188.0,267.0,0.0,0.0,54.0,213.0,0.0,0.0
+348,ENF-703,Safety Stock,0,Balance,-83.0,-455.0,-83.0,-188.0,-239.0,-403.0,-455.0,-455.0
+349,ENF-703,Order Policy,FOQ,Balance (+SR),-83.0,-455.0,-83.0,-188.0,-239.0,-403.0,-455.0,-455.0
+350,ENF-703,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+351,ENF-703,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-372.0,0.0,-105.0,-156.0,-320.0,-372.0,-372.0
+352,GRF-005,Item Code,GRF-005,Gross Req,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+353,GRF-005,Description,20GR Gravel/CX Bike Frameset - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+354,GRF-005,Current stock,6.0,planned_receipt,0.0,138.0,0.0,138.0,0.0,0.0,0.0,0.0
+355,GRF-005,Lead Time,7,planned_release,138.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,GRF-005,Safety Stock,0,Balance,6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+357,GRF-005,Order Policy,FOQ,Balance (+SR),6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+358,GRF-005,Rounding Value / MOQ,[1/ 2],Balance(+SR+PR),6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+359,GRF-005,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),6.0,-50.0,6.0,-50.0,-50.0,-50.0,-50.0,-50.0
+360,CSS-812,Item Code,CSS-812,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+361,CSS-812,Description,Shimano XT M8000 Cassette 12 speed,Scheduled Rcpt,0.0,30.0,0.0,0.0,30.0,0.0,0.0,0.0
+362,CSS-812,Current stock,120.0,planned_receipt,290.0,1045.0,80.0,390.0,275.0,50.0,155.0,95.0
+363,CSS-812,Lead Time,10,planned_release,810.0,715.0,25.0,200.0,100.0,200.0,150.0,40.0
+364,CSS-812,Safety Stock,0,Balance,-290.0,-1365.0,-370.0,-759.0,-1064.0,-1114.0,-1267.0,-1365.0
+365,CSS-812,Order Policy,FOQ,Balance (+SR),-290.0,-1335.0,-370.0,-759.0,-1034.0,-1084.0,-1237.0,-1335.0
+366,CSS-812,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),0.0,0.0,0.0,1.0,1.0,1.0,3.0,0.0
+367,CSS-812,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-230.0,-1275.0,-310.0,-699.0,-974.0,-1024.0,-1177.0,-1275.0
+368,CHN-511,Item Code,CHN-511,Gross Req,0.0,120.0,0.0,70.0,50.0,0.0,0.0,0.0
+369,CHN-511,Description,KMC Chain X11 EPT Anti-Rust Chain,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+370,CHN-511,Current stock,59.0,planned_receipt,0.0,61.0,0.0,20.0,41.0,0.0,0.0,0.0
+371,CHN-511,Lead Time,30,planned_release,61.0,50.0,0.0,0.0,0.0,0.0,50.0,0.0
+372,CHN-511,Safety Stock,0,Balance,59.0,-61.0,59.0,-11.0,-61.0,-61.0,-61.0,-61.0
+373,CHN-511,Order Policy,FOQ,Balance (+SR),59.0,-61.0,59.0,-11.0,-61.0,-61.0,-61.0,-61.0
+374,CHN-511,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),59.0,0.0,59.0,9.0,0.0,0.0,0.0,0.0
+375,CHN-511,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),59.0,-41.0,59.0,9.0,-41.0,-41.0,-41.0,-41.0
+376,TRF-405,Item Code,TRF-405,Gross Req,0.0,687.0,80.0,190.0,209.0,46.0,162.0,0.0
+377,TRF-405,Description,140mm Trail Frameset - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,TRF-405,Current stock,18.0,planned_receipt,0.0,669.0,62.0,190.0,209.0,46.0,162.0,0.0
+379,TRF-405,Lead Time,7,planned_release,252.0,459.0,0.0,209.0,46.0,162.0,0.0,42.0
+380,TRF-405,Safety Stock,0,Balance,18.0,-669.0,-62.0,-252.0,-461.0,-507.0,-669.0,-669.0
+381,TRF-405,Order Policy,FOQ,Balance (+SR),18.0,-669.0,-62.0,-252.0,-461.0,-507.0,-669.0,-669.0
+382,TRF-405,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,TRF-405,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),18.0,-607.0,0.0,-190.0,-399.0,-445.0,-607.0,-607.0
+384,WLS-127,Item Code,WLS-127,Gross Req,129.0,1341.0,195.0,349.0,103.0,289.0,345.0,60.0
+385,WLS-127,Description,Wheelset 295 with XC rims,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+386,WLS-127,Current stock,55.0,planned_receipt,74.0,1341.0,195.0,349.0,104.0,288.0,345.0,60.0
+387,WLS-127,Lead Time,3,planned_release,468.0,1000.0,47.0,203.0,116.0,264.0,370.0,0.0
+388,WLS-127,Safety Stock,0,Balance,-74.0,-1415.0,-269.0,-618.0,-721.0,-1010.0,-1355.0,-1415.0
+389,WLS-127,Order Policy,FOQ,Balance (+SR),-74.0,-1415.0,-269.0,-618.0,-721.0,-1010.0,-1355.0,-1415.0
+390,WLS-127,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+391,WLS-127,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-1341.0,-195.0,-544.0,-647.0,-936.0,-1281.0,-1341.0
+392,TYR-729,Item Code,TYR-729,Gross Req,134.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+393,TYR-729,Description,"Maxxis Minion DHF Folding Tyre 29x2.50""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,TYR-729,Current stock,100.0,planned_receipt,34.0,168.0,0.0,70.0,50.0,0.0,0.0,48.0
+395,TYR-729,Lead Time,30,planned_release,154.0,184.0,48.0,0.0,36.0,0.0,50.0,50.0
+396,TYR-729,Safety Stock,0,Balance,-34.0,-202.0,-34.0,-104.0,-154.0,-154.0,-154.0,-202.0
+397,TYR-729,Order Policy,FOQ,Balance (+SR),-34.0,-202.0,-34.0,-104.0,-154.0,-154.0,-154.0,-202.0
+398,TYR-729,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+399,TYR-729,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-168.0,0.0,-70.0,-120.0,-120.0,-120.0,-168.0
+400,BRK-204,Item Code,BRK-204,Gross Req,311.0,1727.0,275.0,513.0,305.0,209.0,315.0,110.0
+401,BRK-204,Description,Formula Cura Disc Brake Rear,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,BRK-204,Current stock,170.0,planned_receipt,145.0,1725.0,275.0,510.0,305.0,210.0,315.0,110.0
+403,BRK-204,Lead Time,30,planned_release,1810.0,1155.0,60.0,260.0,205.0,155.0,475.0,0.0
+404,BRK-204,Safety Stock,0,Balance,-141.0,-1868.0,-416.0,-929.0,-1234.0,-1443.0,-1758.0,-1868.0
+405,BRK-204,Order Policy,FOQ,Balance (+SR),-141.0,-1868.0,-416.0,-929.0,-1234.0,-1443.0,-1758.0,-1868.0
+406,BRK-204,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),4.0,2.0,4.0,1.0,1.0,2.0,2.0,2.0
+407,BRK-204,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),4.0,-1723.0,-271.0,-784.0,-1089.0,-1298.0,-1613.0,-1723.0
+408,ENF-705,Item Code,ENF-705,Gross Req,0.0,123.0,0.0,71.0,52.0,0.0,0.0,0.0
+409,ENF-705,Description,170mm Enduro Frameset - Medium,Scheduled Rcpt,0.0,53.0,53.0,0.0,0.0,0.0,0.0,0.0
+410,ENF-705,Current stock,31.0,planned_receipt,0.0,41.0,0.0,0.0,41.0,0.0,0.0,0.0
+411,ENF-705,Lead Time,3,planned_release,0.0,41.0,0.0,37.0,4.0,0.0,0.0,0.0
+412,ENF-705,Safety Stock,0,Balance,31.0,-92.0,31.0,-40.0,-92.0,-92.0,-92.0,-92.0
+413,ENF-705,Order Policy,FOQ,Balance (+SR),31.0,-39.0,84.0,13.0,-39.0,-39.0,-39.0,-39.0
+414,ENF-705,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),31.0,2.0,84.0,13.0,2.0,2.0,2.0,2.0
+415,ENF-705,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),31.0,-2.0,84.0,13.0,-2.0,-2.0,-2.0,-2.0
+416,HBG-100,Item Code,HBG-100,Gross Req,539.0,2050.0,275.0,688.0,405.0,209.0,315.0,158.0
+417,HBG-100,Description,DMR Deathgrip Handlebar Grips black,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+418,HBG-100,Current stock,291.0,planned_receipt,250.0,2050.0,275.0,690.0,405.0,205.0,315.0,160.0
+419,HBG-100,Lead Time,30,planned_release,2190.0,1385.0,110.0,260.0,240.0,200.0,525.0,50.0
+420,HBG-100,Safety Stock,0,Balance,-248.0,-2298.0,-523.0,-1211.0,-1616.0,-1825.0,-2140.0,-2298.0
+421,HBG-100,Order Policy,FOQ,Balance (+SR),-248.0,-2298.0,-523.0,-1211.0,-1616.0,-1825.0,-2140.0,-2298.0
+422,HBG-100,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),2.0,2.0,2.0,4.0,4.0,0.0,0.0,2.0
+423,HBG-100,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-213.0,-2263.0,-488.0,-1176.0,-1581.0,-1790.0,-2105.0,-2263.0
+424,ACR-036,Item Code,ACR-036,Gross Req,129.0,975.0,195.0,299.0,100.0,159.0,162.0,60.0
+425,ACR-036,Description,Chainring 36T Alloy,Scheduled Rcpt,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0
+426,ACR-036,Current stock,52.0,planned_receipt,80.0,965.0,195.0,290.0,100.0,155.0,165.0,60.0
+427,ACR-036,Lead Time,14,planned_release,665.0,595.0,0.0,155.0,165.0,110.0,105.0,60.0
+428,ACR-036,Safety Stock,0,Balance,-77.0,-1052.0,-272.0,-571.0,-671.0,-830.0,-992.0,-1052.0
+429,ACR-036,Order Policy,FOQ,Balance (+SR),-77.0,-1042.0,-272.0,-561.0,-661.0,-820.0,-982.0,-1042.0
+430,ACR-036,Rounding Value / MOQ,[5/ 10],Balance(+SR+PR),3.0,3.0,3.0,4.0,4.0,0.0,3.0,3.0
+431,ACR-036,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),3.0,-962.0,-192.0,-481.0,-581.0,-740.0,-902.0,-962.0
+432,SPD-080,Item Code,SPD-080,Gross Req,129.0,1405.0,195.0,679.0,100.0,209.0,162.0,60.0
+433,SPD-080,Description,BikeYoke Divine SL 80mm Seatpost,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+434,SPD-080,Current stock,96.0,planned_receipt,35.0,1405.0,195.0,680.0,100.0,210.0,160.0,60.0
+435,SPD-080,Lead Time,21,planned_release,1170.0,535.0,50.0,160.0,115.0,105.0,105.0,0.0
+436,SPD-080,Safety Stock,0,Balance,-33.0,-1438.0,-228.0,-907.0,-1007.0,-1216.0,-1378.0,-1438.0
+437,SPD-080,Order Policy,FOQ,Balance (+SR),-33.0,-1438.0,-228.0,-907.0,-1007.0,-1216.0,-1378.0,-1438.0
+438,SPD-080,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),2.0,2.0,2.0,3.0,3.0,4.0,2.0,2.0
+439,SPD-080,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),2.0,-1403.0,-193.0,-872.0,-972.0,-1181.0,-1343.0,-1403.0
+440,ACR-032,Item Code,ACR-032,Gross Req,228.0,323.0,0.0,175.0,100.0,0.0,0.0,48.0
+441,ACR-032,Description,Chainring 32T Alloy SB,Scheduled Rcpt,0.0,71.0,0.0,56.0,0.0,15.0,0.0,0.0
+442,ACR-032,Current stock,85.0,planned_receipt,145.0,250.0,0.0,120.0,100.0,0.0,0.0,30.0
+443,ACR-032,Lead Time,14,planned_release,365.0,70.0,0.0,0.0,0.0,30.0,40.0,0.0
+444,ACR-032,Safety Stock,0,Balance,-143.0,-466.0,-143.0,-318.0,-418.0,-418.0,-418.0,-466.0
+445,ACR-032,Order Policy,FOQ,Balance (+SR),-143.0,-395.0,-143.0,-262.0,-362.0,-347.0,-347.0,-395.0
+446,ACR-032,Rounding Value / MOQ,[5/ 10],Balance(+SR+PR),2.0,0.0,2.0,3.0,3.0,18.0,18.0,0.0
+447,ACR-032,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,-300.0,-48.0,-167.0,-267.0,-252.0,-252.0,-300.0
+448,ACS-165,Item Code,ACS-165,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+449,ACS-165,Description,Aluminium Crankset 165mm,Scheduled Rcpt,0.0,32.0,0.0,0.0,32.0,0.0,0.0,0.0
+450,ACS-165,Current stock,84.0,planned_receipt,326.0,1043.0,80.0,389.0,273.0,50.0,153.0,98.0
+451,ACS-165,Lead Time,7,planned_release,795.0,724.0,0.0,273.0,50.0,153.0,198.0,50.0
+452,ACS-165,Safety Stock,0,Balance,-326.0,-1401.0,-406.0,-795.0,-1100.0,-1150.0,-1303.0,-1401.0
+453,ACS-165,Order Policy,FOQ,Balance (+SR),-326.0,-1369.0,-406.0,-795.0,-1068.0,-1118.0,-1271.0,-1369.0
+454,ACS-165,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+455,ACS-165,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-230.0,-1273.0,-310.0,-699.0,-972.0,-1022.0,-1175.0,-1273.0
+456,FRK-727,Item Code,FRK-727,Gross Req,188.0,265.0,0.0,162.0,50.0,0.0,53.0,0.0
+457,FRK-727,Description,RockShox Lyrik Ultimate fork 275,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,FRK-727,Current stock,24.0,planned_receipt,164.0,265.0,0.0,162.0,50.0,0.0,53.0,0.0
+459,FRK-727,Lead Time,7,planned_release,326.0,103.0,0.0,50.0,0.0,53.0,0.0,0.0
+460,FRK-727,Safety Stock,0,Balance,-164.0,-429.0,-164.0,-326.0,-376.0,-376.0,-429.0,-429.0
+461,FRK-727,Order Policy,FOQ,Balance (+SR),-164.0,-429.0,-164.0,-326.0,-376.0,-376.0,-429.0,-429.0
+462,FRK-727,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+463,FRK-727,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-94.0,-359.0,-94.0,-256.0,-306.0,-306.0,-359.0,-359.0
+464,SPR-160,Item Code,SPR-160,Gross Req,188.0,265.0,0.0,162.0,50.0,0.0,53.0,0.0
+465,SPR-160,Description,BikeYoke Revive 2.0 160mm Seatpost,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+466,SPR-160,Current stock,36.0,planned_receipt,155.0,265.0,0.0,160.0,50.0,0.0,55.0,0.0
+467,SPR-160,Lead Time,21,planned_release,365.0,150.0,0.0,55.0,0.0,0.0,95.0,0.0
+468,SPR-160,Safety Stock,0,Balance,-152.0,-417.0,-152.0,-314.0,-364.0,-364.0,-417.0,-417.0
+469,SPR-160,Order Policy,FOQ,Balance (+SR),-152.0,-417.0,-152.0,-314.0,-364.0,-364.0,-417.0,-417.0
+470,SPR-160,Rounding Value / MOQ,[5/ 16],Balance(+SR+PR),3.0,3.0,3.0,1.0,1.0,1.0,3.0,3.0
+471,SPR-160,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-92.0,-357.0,-92.0,-254.0,-304.0,-304.0,-357.0,-357.0
+472,FRK-429,Item Code,FRK-429,Gross Req,129.0,975.0,195.0,299.0,100.0,159.0,162.0,60.0
+473,FRK-429,Description,RockShox SID Ultimate fork 295,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474,FRK-429,Current stock,52.0,planned_receipt,80.0,975.0,195.0,300.0,100.0,155.0,165.0,60.0
+475,FRK-429,Lead Time,14,planned_release,675.0,595.0,0.0,155.0,165.0,110.0,105.0,60.0
+476,FRK-429,Safety Stock,0,Balance,-77.0,-1052.0,-272.0,-571.0,-671.0,-830.0,-992.0,-1052.0
+477,FRK-429,Order Policy,FOQ,Balance (+SR),-77.0,-1052.0,-272.0,-571.0,-671.0,-830.0,-992.0,-1052.0
+478,FRK-429,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),3.0,3.0,3.0,4.0,4.0,0.0,3.0,3.0
+479,FRK-429,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),3.0,-972.0,-192.0,-491.0,-591.0,-750.0,-912.0,-972.0
+480,AST-055,Item Code,AST-055,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+481,AST-055,Description,Aluminium Stem 55mm,Scheduled Rcpt,0.0,25.0,0.0,0.0,25.0,0.0,0.0,0.0
+482,AST-055,Current stock,84.0,planned_receipt,326.0,1050.0,80.0,389.0,280.0,50.0,153.0,98.0
+483,AST-055,Lead Time,7,planned_release,795.0,731.0,0.0,280.0,50.0,153.0,198.0,50.0
+484,AST-055,Safety Stock,0,Balance,-326.0,-1401.0,-406.0,-795.0,-1100.0,-1150.0,-1303.0,-1401.0
+485,AST-055,Order Policy,FOQ,Balance (+SR),-326.0,-1376.0,-406.0,-795.0,-1075.0,-1125.0,-1278.0,-1376.0
+486,AST-055,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,AST-055,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-230.0,-1280.0,-310.0,-699.0,-979.0,-1029.0,-1182.0,-1280.0
+488,BRK-134,Item Code,BRK-134,Gross Req,0.0,430.0,0.0,380.0,0.0,50.0,0.0,0.0
+489,BRK-134,Description,Shimano GRX Disc Brake Front,Scheduled Rcpt,0.0,148.0,100.0,48.0,0.0,0.0,0.0,0.0
+490,BRK-134,Current stock,21.0,planned_receipt,0.0,265.0,0.0,215.0,0.0,50.0,0.0,0.0
+491,BRK-134,Lead Time,10,planned_release,215.0,50.0,0.0,50.0,0.0,0.0,0.0,0.0
+492,BRK-134,Safety Stock,0,Balance,21.0,-409.0,21.0,-359.0,-359.0,-409.0,-409.0,-409.0
+493,BRK-134,Order Policy,FOQ,Balance (+SR),21.0,-261.0,121.0,-211.0,-211.0,-261.0,-261.0,-261.0
+494,BRK-134,Rounding Value / MOQ,[5/ 12],Balance(+SR+PR),21.0,4.0,121.0,4.0,4.0,4.0,4.0,4.0
+495,BRK-134,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),21.0,-146.0,121.0,-96.0,-96.0,-146.0,-146.0,-146.0
+496,SPR-213,Item Code,SPR-213,Gross Req,134.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0
+497,SPR-213,Description,BikeYoke Revive 2.0 213mm Seatpost,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+498,SPR-213,Current stock,41.0,planned_receipt,93.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0
+499,SPR-213,Lead Time,21,planned_release,93.0,84.0,0.0,0.0,48.0,36.0,0.0,0.0
+500,SPR-213,Safety Stock,0,Balance,-93.0,-141.0,-93.0,-93.0,-93.0,-93.0,-93.0,-141.0
+501,SPR-213,Order Policy,FOQ,Balance (+SR),-93.0,-141.0,-93.0,-93.0,-93.0,-93.0,-93.0,-141.0
+502,SPR-213,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+503,SPR-213,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,-96.0,-48.0,-48.0,-48.0,-48.0,-48.0,-96.0
+504,FRK-729,Item Code,FRK-729,Gross Req,88.0,642.0,80.0,157.0,205.0,50.0,100.0,50.0
+505,FRK-729,Description,RockShox Lyrik Ultimate fork 295,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,FRK-729,Current stock,28.0,planned_receipt,60.0,642.0,80.0,157.0,205.0,50.0,100.0,50.0
+507,FRK-729,Lead Time,7,planned_release,297.0,555.0,0.0,205.0,50.0,100.0,150.0,50.0
+508,FRK-729,Safety Stock,0,Balance,-60.0,-702.0,-140.0,-297.0,-502.0,-552.0,-652.0,-702.0
+509,FRK-729,Order Policy,FOQ,Balance (+SR),-60.0,-702.0,-140.0,-297.0,-502.0,-552.0,-652.0,-702.0
+510,FRK-729,Rounding Value / MOQ,[1/ 14],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,FRK-729,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-642.0,-80.0,-237.0,-442.0,-492.0,-592.0,-642.0
+512,TYR-170,Item Code,TYR-170,Gross Req,0.0,860.0,0.0,760.0,0.0,100.0,0.0,0.0
+513,TYR-170,Description,Maxxis All Terrane Folding Tyre 700c,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+514,TYR-170,Current stock,58.0,planned_receipt,0.0,802.0,0.0,702.0,0.0,100.0,0.0,0.0
+515,TYR-170,Lead Time,14,planned_release,702.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0
+516,TYR-170,Safety Stock,0,Balance,58.0,-802.0,58.0,-702.0,-702.0,-802.0,-802.0,-802.0
+517,TYR-170,Order Policy,FOQ,Balance (+SR),58.0,-802.0,58.0,-702.0,-702.0,-802.0,-802.0,-802.0
+518,TYR-170,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),58.0,0.0,58.0,0.0,0.0,0.0,0.0,0.0
+519,TYR-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),58.0,-300.0,58.0,-200.0,-200.0,-300.0,-300.0,-300.0
+520,TYR-429,Item Code,TYR-429,Gross Req,176.0,1284.0,160.0,314.0,410.0,100.0,200.0,100.0
+521,TYR-429,Description,"Maxxis Aggressor DHF Folding Tyre 29x2.35""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+522,TYR-429,Current stock,144.0,planned_receipt,32.0,1284.0,160.0,314.0,410.0,100.0,200.0,100.0
+523,TYR-429,Lead Time,30,planned_release,1316.0,820.0,0.0,300.0,200.0,100.0,220.0,0.0
+524,TYR-429,Safety Stock,0,Balance,-32.0,-1316.0,-192.0,-506.0,-916.0,-1016.0,-1216.0,-1316.0
+525,TYR-429,Order Policy,FOQ,Balance (+SR),-32.0,-1316.0,-192.0,-506.0,-916.0,-1016.0,-1216.0,-1316.0
+526,TYR-429,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+527,TYR-429,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-1284.0,-160.0,-474.0,-884.0,-984.0,-1184.0,-1284.0
+528,WLS-429,Item Code,WLS-429,Gross Req,222.0,1078.0,80.0,294.0,309.0,158.0,139.0,98.0
+529,WLS-429,Description,Wheelset 295 with Enduro/Trail Wide rims,Scheduled Rcpt,0.0,22.0,0.0,22.0,0.0,0.0,0.0,0.0
+530,WLS-429,Current stock,83.0,planned_receipt,139.0,1056.0,80.0,272.0,309.0,158.0,139.0,98.0
+531,WLS-429,Lead Time,3,planned_release,339.0,906.0,0.0,308.0,196.0,204.0,148.0,50.0
+532,WLS-429,Safety Stock,0,Balance,-139.0,-1217.0,-219.0,-513.0,-822.0,-980.0,-1119.0,-1217.0
+533,WLS-429,Order Policy,FOQ,Balance (+SR),-139.0,-1195.0,-219.0,-491.0,-800.0,-958.0,-1097.0,-1195.0
+534,WLS-429,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+535,WLS-429,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-135.0,-1191.0,-215.0,-487.0,-796.0,-954.0,-1093.0,-1191.0
+536,HBM-740,Item Code,HBM-740,Gross Req,129.0,1165.0,195.0,369.0,170.0,209.0,162.0,60.0
+537,HBM-740,Description,Handlebars XC 740mm,Scheduled Rcpt,0.0,29.0,0.0,0.0,14.0,15.0,0.0,0.0
+538,HBM-740,Current stock,29.0,planned_receipt,100.0,1136.0,195.0,369.0,156.0,194.0,162.0,60.0
+539,HBM-740,Lead Time,7,planned_release,604.0,740.0,60.0,156.0,194.0,162.0,113.0,55.0
+540,HBM-740,Safety Stock,0,Balance,-100.0,-1265.0,-295.0,-664.0,-834.0,-1043.0,-1205.0,-1265.0
+541,HBM-740,Order Policy,L4L,Balance (+SR),-100.0,-1236.0,-295.0,-664.0,-820.0,-1014.0,-1176.0,-1236.0
+542,HBM-740,Rounding Value / MOQ,[1/ 1],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+543,HBM-740,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-1136.0,-195.0,-564.0,-720.0,-914.0,-1076.0,-1136.0
+544,TYR-827,Item Code,TYR-827,Gross Req,94.0,155.0,0.0,105.0,50.0,0.0,0.0,0.0
+545,TYR-827,Description,"Maxxis Minion DHR II Folding Tyre 27.5x2.50""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+546,TYR-827,Current stock,21.0,planned_receipt,73.0,155.0,0.0,105.0,50.0,0.0,0.0,0.0
+547,TYR-827,Lead Time,30,planned_release,228.0,44.0,0.0,0.0,0.0,44.0,0.0,0.0
+548,TYR-827,Safety Stock,0,Balance,-73.0,-228.0,-73.0,-178.0,-228.0,-228.0,-228.0,-228.0
+549,TYR-827,Order Policy,L4L,Balance (+SR),-73.0,-228.0,-73.0,-178.0,-228.0,-228.0,-228.0,-228.0
+550,TYR-827,Rounding Value / MOQ,[1/ 0],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+551,TYR-827,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-155.0,0.0,-105.0,-155.0,-155.0,-155.0,-155.0
+552,CSS-912,Item Code,CSS-912,Gross Req,129.0,1405.0,195.0,679.0,100.0,209.0,162.0,60.0
+553,CSS-912,Description,Shimano XTR M8000 Cassette 12 speed,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+554,CSS-912,Current stock,58.0,planned_receipt,75.0,1405.0,195.0,675.0,100.0,210.0,165.0,60.0
+555,CSS-912,Lead Time,10,planned_release,1045.0,590.0,0.0,160.0,105.0,220.0,105.0,0.0
+556,CSS-912,Safety Stock,0,Balance,-71.0,-1476.0,-266.0,-945.0,-1045.0,-1254.0,-1416.0,-1476.0
+557,CSS-912,Order Policy,FOQ,Balance (+SR),-71.0,-1476.0,-266.0,-945.0,-1045.0,-1254.0,-1416.0,-1476.0
+558,CSS-912,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),4.0,4.0,4.0,0.0,0.0,1.0,4.0,4.0
+559,CSS-912,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),4.0,-1401.0,-191.0,-870.0,-970.0,-1179.0,-1341.0,-1401.0
+560,GRF-003,Item Code,GRF-003,Gross Req,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+561,GRF-003,Description,20GR Gravel/CX Bike Frameset - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+562,GRF-003,Current stock,6.0,planned_receipt,0.0,138.0,0.0,138.0,0.0,0.0,0.0,0.0
+563,GRF-003,Lead Time,7,planned_release,88.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0
+564,GRF-003,Safety Stock,0,Balance,6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+565,GRF-003,Order Policy,FOQ,Balance (+SR),6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+566,GRF-003,Rounding Value / MOQ,[1/ 3],Balance(+SR+PR),6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+567,GRF-003,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),6.0,-50.0,6.0,-50.0,-50.0,-50.0,-50.0,-50.0
+568,CHN-512,Item Code,CHN-512,Gross Req,410.0,955.0,80.0,319.0,255.0,50.0,153.0,98.0
+569,CHN-512,Description,KMC Chain X12 EPT Anti-Rust Chain,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+570,CHN-512,Current stock,157.0,planned_receipt,253.0,955.0,80.0,319.0,255.0,50.0,153.0,98.0
+571,CHN-512,Lead Time,30,planned_release,1160.0,641.0,48.0,150.0,136.0,147.0,110.0,50.0
+572,CHN-512,Safety Stock,0,Balance,-253.0,-1208.0,-333.0,-652.0,-907.0,-957.0,-1110.0,-1208.0
+573,CHN-512,Order Policy,FOQ,Balance (+SR),-253.0,-1208.0,-333.0,-652.0,-907.0,-957.0,-1110.0,-1208.0
+574,CHN-512,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+575,CHN-512,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-230.0,-1185.0,-310.0,-629.0,-884.0,-934.0,-1087.0,-1185.0
+576,ACR-038,Item Code,ACR-038,Gross Req,0.0,430.0,0.0,380.0,0.0,50.0,0.0,0.0
+577,ACR-038,Description,Chainring 38T Alloy,Scheduled Rcpt,0.0,68.0,0.0,48.0,0.0,20.0,0.0,0.0
+578,ACR-038,Current stock,41.0,planned_receipt,0.0,325.0,0.0,295.0,0.0,30.0,0.0,0.0
+579,ACR-038,Lead Time,30,planned_release,325.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+580,ACR-038,Safety Stock,0,Balance,41.0,-389.0,41.0,-339.0,-339.0,-389.0,-389.0,-389.0
+581,ACR-038,Order Policy,FOQ,Balance (+SR),41.0,-321.0,41.0,-291.0,-291.0,-321.0,-321.0,-321.0
+582,ACR-038,Rounding Value / MOQ,[5/ 10],Balance(+SR+PR),41.0,4.0,41.0,4.0,4.0,4.0,4.0,4.0
+583,ACR-038,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),41.0,-126.0,41.0,-96.0,-96.0,-126.0,-126.0,-126.0
+584,XCF-107,Item Code,XCF-107,Gross Req,0.0,407.0,195.0,50.0,0.0,98.0,0.0,64.0
+585,XCF-107,Description,110mm XC Frameset - Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+586,XCF-107,Current stock,7.0,planned_receipt,0.0,400.0,188.0,50.0,0.0,98.0,0.0,64.0
+587,XCF-107,Lead Time,7,planned_release,238.0,243.0,0.0,0.0,98.0,0.0,145.0,0.0
+588,XCF-107,Safety Stock,0,Balance,7.0,-400.0,-188.0,-238.0,-238.0,-336.0,-336.0,-400.0
+589,XCF-107,Order Policy,FOQ,Balance (+SR),7.0,-400.0,-188.0,-238.0,-238.0,-336.0,-336.0,-400.0
+590,XCF-107,Rounding Value / MOQ,[1/ 3],Balance(+SR+PR),7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+591,XCF-107,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),7.0,-212.0,0.0,-50.0,-50.0,-148.0,-148.0,-212.0
+592,SDL-239,Item Code,SDL-239,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+593,SDL-239,Description,WTB Volt Saddle black,Scheduled Rcpt,0.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0
+594,SDL-239,Current stock,216.0,planned_receipt,195.0,975.0,80.0,305.0,290.0,50.0,155.0,95.0
+595,SDL-239,Lead Time,30,planned_release,1125.0,690.0,45.0,150.0,135.0,150.0,160.0,50.0
+596,SDL-239,Safety Stock,0,Balance,-194.0,-1269.0,-274.0,-663.0,-968.0,-1018.0,-1171.0,-1269.0
+597,SDL-239,Order Policy,FOQ,Balance (+SR),-194.0,-1169.0,-274.0,-563.0,-868.0,-918.0,-1071.0,-1169.0
+598,SDL-239,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),1.0,1.0,1.0,17.0,2.0,2.0,4.0,1.0
+599,SDL-239,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-84.0,-1059.0,-164.0,-453.0,-758.0,-808.0,-961.0,-1059.0
+600,HBG-460,Item Code,HBG-460,Gross Req,0.0,142.0,0.0,92.0,0.0,50.0,0.0,0.0
+601,HBG-460,Description,Handlebars Gravel 460mm,Scheduled Rcpt,0.0,5.0,0.0,0.0,2.0,3.0,0.0,0.0
+602,HBG-460,Current stock,5.0,planned_receipt,0.0,135.0,0.0,87.0,0.0,48.0,0.0,0.0
+603,HBG-460,Lead Time,7,planned_release,87.0,48.0,0.0,0.0,48.0,0.0,0.0,0.0
+604,HBG-460,Safety Stock,0,Balance,5.0,-137.0,5.0,-87.0,-87.0,-137.0,-137.0,-137.0
+605,HBG-460,Order Policy,FOQ,Balance (+SR),5.0,-132.0,5.0,-87.0,-85.0,-132.0,-132.0,-132.0
+606,HBG-460,Rounding Value / MOQ,[1/ 2],Balance(+SR+PR),5.0,3.0,5.0,0.0,2.0,3.0,3.0,3.0
+607,HBG-460,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),5.0,-45.0,5.0,0.0,2.0,-45.0,-45.0,-45.0
+608,CST-050,Item Code,CST-050,Gross Req,0.0,430.0,0.0,380.0,0.0,50.0,0.0,0.0
+609,CST-050,Description,Carbon light Stem 50mm,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+610,CST-050,Current stock,41.0,planned_receipt,0.0,389.0,0.0,339.0,0.0,50.0,0.0,0.0
+611,CST-050,Lead Time,30,planned_release,389.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+612,CST-050,Safety Stock,0,Balance,41.0,-389.0,41.0,-339.0,-339.0,-389.0,-389.0,-389.0
+613,CST-050,Order Policy,FOQ,Balance (+SR),41.0,-389.0,41.0,-339.0,-339.0,-389.0,-389.0,-389.0
+614,CST-050,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),41.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0
+615,CST-050,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),41.0,-150.0,41.0,-100.0,-100.0,-150.0,-150.0,-150.0
+616,HBG-420,Item Code,HBG-420,Gross Req,0.0,144.0,0.0,144.0,0.0,0.0,0.0,0.0
+617,HBG-420,Description,Handlebars Gravel 420mm,Scheduled Rcpt,0.0,5.0,0.0,0.0,5.0,0.0,0.0,0.0
+618,HBG-420,Current stock,6.0,planned_receipt,0.0,138.0,0.0,138.0,0.0,0.0,0.0,0.0
+619,HBG-420,Lead Time,7,planned_release,88.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0
+620,HBG-420,Safety Stock,0,Balance,6.0,-138.0,6.0,-138.0,-138.0,-138.0,-138.0,-138.0
+621,HBG-420,Order Policy,FOQ,Balance (+SR),6.0,-133.0,6.0,-138.0,-133.0,-133.0,-133.0,-133.0
+622,HBG-420,Rounding Value / MOQ,[1/ 3],Balance(+SR+PR),6.0,5.0,6.0,0.0,5.0,5.0,5.0,5.0
+623,HBG-420,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),6.0,-45.0,6.0,-50.0,-45.0,-45.0,-45.0,-45.0
+624,XCF-105,Item Code,XCF-105,Gross Req,0.0,579.0,0.0,188.0,100.0,115.0,116.0,60.0
+625,XCF-105,Description,110mm XC Frameset - Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+626,XCF-105,Current stock,10.0,planned_receipt,0.0,569.0,0.0,178.0,100.0,115.0,116.0,60.0
+627,XCF-105,Lead Time,7,planned_release,178.0,435.0,0.0,100.0,115.0,116.0,104.0,0.0
+628,XCF-105,Safety Stock,0,Balance,10.0,-569.0,10.0,-178.0,-278.0,-393.0,-509.0,-569.0
+629,XCF-105,Order Policy,FOQ,Balance (+SR),10.0,-569.0,10.0,-178.0,-278.0,-393.0,-509.0,-569.0
+630,XCF-105,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+631,XCF-105,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),10.0,-491.0,10.0,-100.0,-200.0,-315.0,-431.0,-491.0
+632,CCS-170,Item Code,CCS-170,Gross Req,129.0,1411.0,195.0,681.0,102.0,211.0,162.0,60.0
+633,CCS-170,Description,Carbon Crankset 170mm,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+634,CCS-170,Current stock,79.0,planned_receipt,50.0,1411.0,195.0,681.0,105.0,208.0,162.0,60.0
+635,CCS-170,Lead Time,3,planned_release,723.0,791.0,0.0,303.0,163.0,104.0,221.0,0.0
+636,CCS-170,Safety Stock,0,Balance,-50.0,-1461.0,-245.0,-926.0,-1028.0,-1239.0,-1401.0,-1461.0
+637,CCS-170,Order Policy,FOQ,Balance (+SR),-50.0,-1461.0,-245.0,-926.0,-1028.0,-1239.0,-1401.0,-1461.0
+638,CCS-170,Rounding Value / MOQ,[1/ 5],Balance(+SR+PR),0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+639,CCS-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-1411.0,-195.0,-876.0,-978.0,-1189.0,-1351.0,-1411.0
+640,MEC-813,Item Code,MEC-813,Gross Req,410.0,1075.0,80.0,389.0,305.0,50.0,153.0,98.0
+641,MEC-813,Description,Shimano XT M8000 Derailleur 12 speed,Scheduled Rcpt,0.0,30.0,0.0,0.0,30.0,0.0,0.0,0.0
+642,MEC-813,Current stock,108.0,planned_receipt,305.0,1045.0,80.0,390.0,275.0,50.0,150.0,100.0
+643,MEC-813,Lead Time,10,planned_release,825.0,710.0,25.0,200.0,100.0,200.0,150.0,35.0
+644,MEC-813,Safety Stock,0,Balance,-302.0,-1377.0,-382.0,-771.0,-1076.0,-1126.0,-1279.0,-1377.0
+645,MEC-813,Order Policy,FOQ,Balance (+SR),-302.0,-1347.0,-382.0,-771.0,-1046.0,-1096.0,-1249.0,-1347.0
+646,MEC-813,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),3.0,3.0,3.0,4.0,4.0,4.0,1.0,3.0
+647,MEC-813,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-227.0,-1272.0,-307.0,-696.0,-971.0,-1021.0,-1174.0,-1272.0
+648,TRF-403,Item Code,TRF-403,Gross Req,94.0,366.0,0.0,110.0,0.0,104.0,152.0,0.0
+649,TRF-403,Description,140mm Trail Frameset - Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+650,TRF-403,Current stock,13.0,planned_receipt,81.0,366.0,0.0,110.0,0.0,104.0,152.0,0.0
+651,TRF-403,Lead Time,7,planned_release,191.0,406.0,0.0,0.0,104.0,152.0,94.0,56.0
+652,TRF-403,Safety Stock,0,Balance,-81.0,-447.0,-81.0,-191.0,-191.0,-295.0,-447.0,-447.0
+653,TRF-403,Order Policy,FOQ,Balance (+SR),-81.0,-447.0,-81.0,-191.0,-191.0,-295.0,-447.0,-447.0
+654,TRF-403,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+655,TRF-403,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-366.0,0.0,-110.0,-110.0,-214.0,-366.0,-366.0
+656,TYR-727,Item Code,TYR-727,Gross Req,94.0,155.0,0.0,105.0,50.0,0.0,0.0,0.0
+657,TYR-727,Description,"Maxxis Minion DHF Folding Tyre 27.5x2.50""",Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+658,TYR-727,Current stock,21.0,planned_receipt,73.0,155.0,0.0,105.0,50.0,0.0,0.0,0.0
+659,TYR-727,Lead Time,30,planned_release,228.0,44.0,0.0,0.0,0.0,44.0,0.0,0.0
+660,TYR-727,Safety Stock,0,Balance,-73.0,-228.0,-73.0,-178.0,-228.0,-228.0,-228.0,-228.0
+661,TYR-727,Order Policy,L4L,Balance (+SR),-73.0,-228.0,-73.0,-178.0,-228.0,-228.0,-228.0,-228.0
+662,TYR-727,Rounding Value / MOQ,[1/ 0],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,TYR-727,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-155.0,0.0,-105.0,-155.0,-155.0,-155.0,-155.0
+664,ASL-140,Item Code,ASL-140,Gross Req,577.0,1512.0,0.0,358.0,200.0,527.0,279.0,148.0
+665,ASL-140,Description,Alloy Suspension Link Kit - Trail,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+666,ASL-140,Current stock,30.0,planned_receipt,547.0,1512.0,0.0,358.0,200.0,527.0,279.0,148.0
+667,ASL-140,Lead Time,3,planned_release,706.0,1405.0,49.0,150.0,353.0,514.0,287.0,52.0
+668,ASL-140,Safety Stock,0,Balance,-547.0,-2059.0,-547.0,-905.0,-1105.0,-1632.0,-1911.0,-2059.0
+669,ASL-140,Order Policy,FOQ,Balance (+SR),-547.0,-2059.0,-547.0,-905.0,-1105.0,-1632.0,-1911.0,-2059.0
+670,ASL-140,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+671,ASL-140,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-496.0,-2008.0,-496.0,-854.0,-1054.0,-1581.0,-1860.0,-2008.0
+672,PBK-110,Item Code,PBK-110,Gross Req,238.0,243.0,0.0,0.0,98.0,0.0,145.0,0.0
+673,PBK-110,Description,Pivot Bolt Kit - XC,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+674,PBK-110,Current stock,18.0,planned_receipt,220.0,250.0,0.0,0.0,100.0,0.0,150.0,0.0
+675,PBK-110,Lead Time,30,planned_release,470.0,600.0,0.0,180.0,110.0,120.0,190.0,0.0
+676,PBK-110,Safety Stock,0,Balance,-220.0,-463.0,-220.0,-220.0,-318.0,-318.0,-463.0,-463.0
+677,PBK-110,Order Policy,FOQ,Balance (+SR),-220.0,-463.0,-220.0,-220.0,-318.0,-318.0,-463.0,-463.0
+678,PBK-110,Rounding Value / MOQ,[10/ 14],Balance(+SR+PR),0.0,7.0,0.0,0.0,2.0,2.0,7.0,7.0
+679,PBK-110,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-50.0,-293.0,-50.0,-50.0,-148.0,-148.0,-293.0,-293.0
+680,SPK-105,Item Code,SPK-105,Gross Req,650.0,1540.0,22.0,536.0,308.0,208.0,416.0,50.0
+681,SPK-105,Description,Sapim straight-pull spokes,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+682,SPK-105,Current stock,283.0,planned_receipt,390.0,1530.0,0.0,540.0,330.0,210.0,390.0,60.0
+683,SPK-105,Lead Time,30,planned_release,1860.0,1530.0,60.0,330.0,240.0,150.0,570.0,180.0
+684,SPK-105,Safety Stock,0,Balance,-367.0,-1907.0,-389.0,-925.0,-1233.0,-1441.0,-1857.0,-1907.0
+685,SPK-105,Order Policy,FOQ,Balance (+SR),-367.0,-1907.0,-389.0,-925.0,-1233.0,-1441.0,-1857.0,-1907.0
+686,SPK-105,Rounding Value / MOQ,[30/ 30],Balance(+SR+PR),23.0,13.0,1.0,5.0,27.0,29.0,3.0,13.0
+687,SPK-105,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-277.0,-1817.0,-299.0,-835.0,-1143.0,-1351.0,-1767.0,-1817.0
+688,FHB-932,Item Code,FHB-932,Gross Req,1348.0,2789.0,69.0,888.0,476.0,520.0,786.0,50.0
+689,FHB-932,Description,Front Hub Boost 32h,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+690,FHB-932,Current stock,489.0,planned_receipt,859.0,2789.0,69.0,888.0,492.0,504.0,786.0,50.0
+691,FHB-932,Lead Time,30,planned_release,3598.0,2970.0,50.0,598.0,508.0,411.0,1083.0,320.0
+692,FHB-932,Safety Stock,0,Balance,-859.0,-3648.0,-928.0,-1816.0,-2292.0,-2812.0,-3598.0,-3648.0
+693,FHB-932,Order Policy,FOQ,Balance (+SR),-859.0,-3648.0,-928.0,-1816.0,-2292.0,-2812.0,-3598.0,-3648.0
+694,FHB-932,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0
+695,FHB-932,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-725.0,-3514.0,-794.0,-1682.0,-2158.0,-2678.0,-3464.0,-3514.0
+696,RIM-127,Item Code,RIM-127,Gross Req,936.0,2000.0,94.0,406.0,232.0,528.0,740.0,0.0
+697,RIM-127,Description,Rim - 275 XC,Scheduled Rcpt,0.0,22.0,0.0,22.0,0.0,0.0,0.0,0.0
+698,RIM-127,Current stock,100.0,planned_receipt,836.0,1978.0,94.0,384.0,232.0,528.0,740.0,0.0
+699,RIM-127,Lead Time,7,planned_release,1314.0,1940.0,0.0,232.0,528.0,740.0,440.0,0.0
+700,RIM-127,Safety Stock,0,Balance,-836.0,-2836.0,-930.0,-1336.0,-1568.0,-2096.0,-2836.0,-2836.0
+701,RIM-127,Order Policy,FOQ,Balance (+SR),-836.0,-2814.0,-930.0,-1314.0,-1546.0,-2074.0,-2814.0,-2814.0
+702,RIM-127,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+703,RIM-127,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-788.0,-2766.0,-882.0,-1266.0,-1498.0,-2026.0,-2766.0,-2766.0
+704,CPK-145,Item Code,CPK-145,Gross Req,252.0,459.0,0.0,209.0,46.0,162.0,0.0,42.0
+705,CPK-145,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+706,CPK-145,Current stock,14.0,planned_receipt,240.0,460.0,0.0,208.0,48.0,160.0,0.0,44.0
+707,CPK-145,Lead Time,3,planned_release,400.0,352.0,0.0,48.0,156.0,52.0,44.0,52.0
+708,CPK-145,Safety Stock,0,Balance,-238.0,-697.0,-238.0,-447.0,-493.0,-655.0,-655.0,-697.0
+709,CPK-145,Order Policy,FOQ,Balance (+SR),-238.0,-697.0,-238.0,-447.0,-493.0,-655.0,-655.0,-697.0
+710,CPK-145,Rounding Value / MOQ,[4/ 6],Balance(+SR+PR),2.0,3.0,2.0,1.0,3.0,1.0,1.0,3.0
+711,CPK-145,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-190.0,-649.0,-190.0,-399.0,-445.0,-607.0,-607.0,-649.0
+712,CPK-117,Item Code,CPK-117,Gross Req,238.0,243.0,0.0,0.0,98.0,0.0,145.0,0.0
+713,CPK-117,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,CPK-117,Current stock,7.0,planned_receipt,232.0,244.0,0.0,0.0,100.0,0.0,144.0,0.0
+715,CPK-117,Lead Time,3,planned_release,232.0,372.0,0.0,48.0,52.0,116.0,156.0,0.0
+716,CPK-117,Safety Stock,0,Balance,-231.0,-474.0,-231.0,-231.0,-329.0,-329.0,-474.0,-474.0
+717,CPK-117,Order Policy,FOQ,Balance (+SR),-231.0,-474.0,-231.0,-231.0,-329.0,-329.0,-474.0,-474.0
+718,CPK-117,Rounding Value / MOQ,[4/ 3],Balance(+SR+PR),1.0,2.0,1.0,1.0,3.0,3.0,2.0,2.0
+719,CPK-117,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-47.0,-290.0,-47.0,-47.0,-145.0,-145.0,-290.0,-290.0
+720,RHB-932,Item Code,RHB-932,Gross Req,650.0,1540.0,22.0,536.0,308.0,208.0,416.0,50.0
+721,RHB-932,Description,Rear Hub Superboost 32h 12 speed hub MS,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+722,RHB-932,Current stock,283.0,planned_receipt,370.0,1540.0,30.0,525.0,310.0,210.0,415.0,50.0
+723,RHB-932,Lead Time,30,planned_release,1860.0,1515.0,50.0,330.0,250.0,150.0,550.0,185.0
+724,RHB-932,Safety Stock,0,Balance,-367.0,-1907.0,-389.0,-925.0,-1233.0,-1441.0,-1857.0,-1907.0
+725,RHB-932,Order Policy,FOQ,Balance (+SR),-367.0,-1907.0,-389.0,-925.0,-1233.0,-1441.0,-1857.0,-1907.0
+726,RHB-932,Rounding Value / MOQ,[5/ 30],Balance(+SR+PR),3.0,3.0,11.0,0.0,2.0,4.0,3.0,3.0
+727,RHB-932,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-292.0,-1832.0,-314.0,-850.0,-1158.0,-1366.0,-1782.0,-1832.0
+728,CPK-107,Item Code,CPK-107,Gross Req,87.0,50.0,0.0,0.0,50.0,0.0,0.0,0.0
+729,CPK-107,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,CPK-107,Current stock,5.0,planned_receipt,84.0,48.0,0.0,0.0,48.0,0.0,0.0,0.0
+731,CPK-107,Lead Time,3,planned_release,84.0,48.0,0.0,48.0,0.0,0.0,0.0,0.0
+732,CPK-107,Safety Stock,0,Balance,-82.0,-132.0,-82.0,-82.0,-132.0,-132.0,-132.0,-132.0
+733,CPK-107,Order Policy,FOQ,Balance (+SR),-82.0,-132.0,-82.0,-82.0,-132.0,-132.0,-132.0,-132.0
+734,CPK-107,Rounding Value / MOQ,[4/ 2],Balance(+SR+PR),2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0
+735,CPK-107,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),2.0,-48.0,2.0,2.0,-48.0,-48.0,-48.0,-48.0
+736,ALB-758,Item Code,ALB-758,Gross Req,196.0,183.0,0.0,74.0,12.0,37.0,48.0,12.0
+737,ALB-758,Description,Aluminium Billet 7075 size 8,Scheduled Rcpt,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0
+738,ALB-758,Current stock,26.0,planned_receipt,170.0,173.0,0.0,64.0,12.0,37.0,48.0,12.0
+739,ALB-758,Lead Time,10,planned_release,234.0,166.0,0.0,24.0,49.0,36.0,46.0,11.0
+740,ALB-758,Safety Stock,0,Balance,-170.0,-353.0,-170.0,-244.0,-256.0,-293.0,-341.0,-353.0
+741,ALB-758,Order Policy,FOQ,Balance (+SR),-170.0,-343.0,-170.0,-234.0,-246.0,-283.0,-331.0,-343.0
+742,ALB-758,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+743,ALB-758,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-137.0,-310.0,-137.0,-201.0,-213.0,-250.0,-298.0,-310.0
+744,CPK-143,Item Code,CPK-143,Gross Req,191.0,406.0,0.0,0.0,104.0,152.0,94.0,56.0
+745,CPK-143,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+746,CPK-143,Current stock,7.0,planned_receipt,184.0,408.0,0.0,0.0,104.0,152.0,96.0,56.0
+747,CPK-143,Lead Time,3,planned_release,184.0,408.0,0.0,0.0,148.0,164.0,96.0,0.0
+748,CPK-143,Safety Stock,0,Balance,-184.0,-590.0,-184.0,-184.0,-288.0,-440.0,-534.0,-590.0
+749,CPK-143,Order Policy,FOQ,Balance (+SR),-184.0,-590.0,-184.0,-184.0,-288.0,-440.0,-534.0,-590.0
+750,CPK-143,Rounding Value / MOQ,[4/ 3],Balance(+SR+PR),0.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0
+751,CPK-143,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-108.0,-514.0,-108.0,-108.0,-212.0,-364.0,-458.0,-514.0
+752,CPK-240,Item Code,CPK-240,Gross Req,577.0,1415.0,0.0,358.0,200.0,465.0,244.0,148.0
+753,CPK-240,Description,Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Trail Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+754,CPK-240,Current stock,30.0,planned_receipt,548.0,1416.0,0.0,360.0,200.0,464.0,244.0,148.0
+755,CPK-240,Lead Time,3,planned_release,708.0,1308.0,48.0,152.0,352.0,416.0,288.0,52.0
+756,CPK-240,Safety Stock,0,Balance,-547.0,-1962.0,-547.0,-905.0,-1105.0,-1570.0,-1814.0,-1962.0
+757,CPK-240,Order Policy,FOQ,Balance (+SR),-547.0,-1962.0,-547.0,-905.0,-1105.0,-1570.0,-1814.0,-1962.0
+758,CPK-240,Rounding Value / MOQ,[4/ 13],Balance(+SR+PR),1.0,2.0,1.0,3.0,3.0,2.0,2.0,2.0
+759,CPK-240,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-495.0,-1910.0,-495.0,-853.0,-1053.0,-1518.0,-1762.0,-1910.0
+760,CPE-175,Item Code,CPE-175,Gross Req,53.0,41.0,0.0,37.0,4.0,0.0,0.0,0.0
+761,CPE-175,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+762,CPE-175,Current stock,29.0,planned_receipt,24.0,56.0,0.0,40.0,16.0,0.0,0.0,0.0
+763,CPE-175,Lead Time,3,planned_release,24.0,56.0,0.0,56.0,0.0,0.0,0.0,0.0
+764,CPE-175,Safety Stock,0,Balance,-24.0,-65.0,-24.0,-61.0,-65.0,-65.0,-65.0,-65.0
+765,CPE-175,Order Policy,FOQ,Balance (+SR),-24.0,-65.0,-24.0,-61.0,-65.0,-65.0,-65.0,-65.0
+766,CPE-175,Rounding Value / MOQ,[4/ 13],Balance(+SR+PR),0.0,15.0,0.0,3.0,15.0,15.0,15.0,15.0
+767,CPE-175,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-41.0,0.0,-37.0,-41.0,-41.0,-41.0,-41.0
+768,CGS-001,Item Code,CGS-001,Gross Req,313.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+769,CGS-001,Description,Cable Grommets Gravel,Scheduled Rcpt,0.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0
+770,CGS-001,Current stock,41.0,planned_receipt,300.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0
+771,CGS-001,Lead Time,30,planned_release,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+772,CGS-001,Safety Stock,0,Balance,-272.0,-372.0,-322.0,-322.0,-372.0,-372.0,-372.0,-372.0
+773,CGS-001,Order Policy,FOQ,Balance (+SR),-272.0,-272.0,-322.0,-222.0,-272.0,-272.0,-272.0,-272.0
+774,CGS-001,Rounding Value / MOQ,[100/ 38],Balance(+SR+PR),28.0,128.0,78.0,178.0,128.0,128.0,128.0,128.0
+775,CGS-001,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),28.0,28.0,-22.0,78.0,28.0,28.0,28.0,28.0
+776,CPK-470,Item Code,CPK-470,Gross Req,429.0,352.0,0.0,37.0,58.0,213.0,0.0,44.0
+777,CPK-470,Description,Cut Pieces Kit- 416g UD Carbon Fibre Cloth - Enduro Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+778,CPK-470,Current stock,75.0,planned_receipt,356.0,352.0,0.0,36.0,72.0,200.0,0.0,44.0
+779,CPK-470,Lead Time,3,planned_release,356.0,352.0,0.0,108.0,84.0,116.0,44.0,0.0
+780,CPK-470,Safety Stock,0,Balance,-354.0,-706.0,-354.0,-391.0,-449.0,-662.0,-662.0,-706.0
+781,CPK-470,Order Policy,FOQ,Balance (+SR),-354.0,-706.0,-354.0,-391.0,-449.0,-662.0,-662.0,-706.0
+782,CPK-470,Rounding Value / MOQ,[4/ 20],Balance(+SR+PR),2.0,2.0,2.0,1.0,15.0,2.0,2.0,2.0
+783,CPK-470,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-310.0,-662.0,-310.0,-347.0,-405.0,-618.0,-618.0,-662.0
+784,AXL-150,Item Code,AXL-150,Gross Req,1518.0,1547.0,0.0,608.0,213.0,257.0,419.0,50.0
+785,AXL-150,Description,7150 Al Crank Axle,Scheduled Rcpt,0.0,145.0,92.0,53.0,0.0,0.0,0.0,0.0
+786,AXL-150,Current stock,345.0,planned_receipt,1173.0,1402.0,0.0,463.0,213.0,257.0,419.0,50.0
+787,AXL-150,Lead Time,30,planned_release,2525.0,1464.0,50.0,241.0,151.0,120.0,705.0,197.0
+788,AXL-150,Safety Stock,0,Balance,-1173.0,-2720.0,-1173.0,-1781.0,-1994.0,-2251.0,-2670.0,-2720.0
+789,AXL-150,Order Policy,FOQ,Balance (+SR),-1173.0,-2575.0,-1081.0,-1636.0,-1849.0,-2106.0,-2525.0,-2575.0
+790,AXL-150,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0
+791,AXL-150,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-1112.0,-2514.0,-1020.0,-1575.0,-1788.0,-2045.0,-2464.0,-2514.0
+792,CPC-120,Item Code,CPC-120,Gross Req,723.0,791.0,0.0,303.0,163.0,104.0,221.0,0.0
+793,CPC-120,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Cranks,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+794,CPC-120,Current stock,114.0,planned_receipt,612.0,788.0,0.0,300.0,164.0,104.0,220.0,0.0
+795,CPC-120,Lead Time,21,planned_release,1180.0,432.0,0.0,220.0,108.0,56.0,48.0,0.0
+796,CPC-120,Safety Stock,0,Balance,-609.0,-1400.0,-609.0,-912.0,-1075.0,-1179.0,-1400.0,-1400.0
+797,CPC-120,Order Policy,FOQ,Balance (+SR),-609.0,-1400.0,-609.0,-912.0,-1075.0,-1179.0,-1400.0,-1400.0
+798,CPC-120,Rounding Value / MOQ,[4/ 20],Balance(+SR+PR),3.0,0.0,3.0,0.0,1.0,1.0,0.0,0.0
+799,CPC-120,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-477.0,-1268.0,-477.0,-780.0,-943.0,-1047.0,-1268.0,-1268.0
+800,CPK-147,Item Code,CPK-147,Gross Req,134.0,550.0,0.0,149.0,50.0,151.0,150.0,50.0
+801,CPK-147,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+802,CPK-147,Current stock,13.0,planned_receipt,124.0,548.0,0.0,148.0,48.0,152.0,152.0,48.0
+803,CPK-147,Lead Time,3,planned_release,124.0,548.0,48.0,100.0,48.0,204.0,148.0,0.0
+804,CPK-147,Safety Stock,0,Balance,-121.0,-671.0,-121.0,-270.0,-320.0,-471.0,-621.0,-671.0
+805,CPK-147,Order Policy,FOQ,Balance (+SR),-121.0,-671.0,-121.0,-270.0,-320.0,-471.0,-621.0,-671.0
+806,CPK-147,Rounding Value / MOQ,[4/ 4],Balance(+SR+PR),3.0,1.0,3.0,2.0,0.0,1.0,3.0,1.0
+807,CPK-147,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-53.0,-603.0,-53.0,-202.0,-252.0,-403.0,-553.0,-603.0
+808,CPE-173,Item Code,CPE-173,Gross Req,188.0,267.0,0.0,0.0,54.0,213.0,0.0,0.0
+809,CPE-173,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+810,CPE-173,Current stock,9.0,planned_receipt,180.0,268.0,0.0,0.0,56.0,212.0,0.0,0.0
+811,CPE-173,Lead Time,3,planned_release,180.0,268.0,0.0,56.0,96.0,116.0,0.0,0.0
+812,CPE-173,Safety Stock,0,Balance,-179.0,-446.0,-179.0,-179.0,-233.0,-446.0,-446.0,-446.0
+813,CPE-173,Order Policy,L4L,Balance (+SR),-179.0,-446.0,-179.0,-179.0,-233.0,-446.0,-446.0,-446.0
+814,CPE-173,Rounding Value / MOQ,[4/ 1],Balance(+SR+PR),1.0,2.0,1.0,1.0,3.0,2.0,2.0,2.0
+815,CPE-173,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-103.0,-370.0,-103.0,-103.0,-157.0,-370.0,-370.0,-370.0
+816,DCL-110,Item Code,DCL-110,Gross Req,644.0,1524.0,91.0,245.0,383.0,376.0,327.0,102.0
+817,DCL-110,Description,Decals - Frame - XC,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+818,DCL-110,Current stock,49.0,planned_receipt,600.0,1520.0,100.0,240.0,380.0,380.0,320.0,100.0
+819,DCL-110,Lead Time,14,planned_release,1280.0,1600.0,40.0,380.0,320.0,460.0,280.0,120.0
+820,DCL-110,Safety Stock,0,Balance,-595.0,-2119.0,-686.0,-931.0,-1314.0,-1690.0,-2017.0,-2119.0
+821,DCL-110,Order Policy,FOQ,Balance (+SR),-595.0,-2119.0,-686.0,-931.0,-1314.0,-1690.0,-2017.0,-2119.0
+822,DCL-110,Rounding Value / MOQ,[20/ 20],Balance(+SR+PR),5.0,1.0,14.0,9.0,6.0,10.0,3.0,1.0
+823,DCL-110,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-515.0,-2039.0,-606.0,-851.0,-1234.0,-1610.0,-1937.0,-2039.0
+824,SPK-102,Item Code,SPK-102,Gross Req,698.0,1249.0,47.0,352.0,168.0,312.0,370.0,0.0
+825,SPK-102,Description,Sapim straight-pull Light spokes,Scheduled Rcpt,0.0,120.0,0.0,60.0,0.0,60.0,0.0,0.0
+826,SPK-102,Current stock,206.0,planned_receipt,510.0,1140.0,30.0,360.0,120.0,240.0,390.0,0.0
+827,SPK-102,Lead Time,30,planned_release,1650.0,1440.0,0.0,240.0,270.0,270.0,540.0,120.0
+828,SPK-102,Safety Stock,0,Balance,-492.0,-1741.0,-539.0,-891.0,-1059.0,-1371.0,-1741.0,-1741.0
+829,SPK-102,Order Policy,FOQ,Balance (+SR),-492.0,-1621.0,-539.0,-831.0,-999.0,-1251.0,-1621.0,-1621.0
+830,SPK-102,Rounding Value / MOQ,[30/ 30],Balance(+SR+PR),18.0,29.0,1.0,69.0,21.0,9.0,29.0,29.0
+831,SPK-102,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-402.0,-1531.0,-449.0,-741.0,-909.0,-1161.0,-1531.0,-1531.0
+832,PBK-170,Item Code,PBK-170,Gross Req,835.0,1633.0,91.0,282.0,343.0,589.0,182.0,146.0
+833,PBK-170,Description,Pivot Bolt Kit - Enduro,Scheduled Rcpt,0.0,60.0,0.0,0.0,60.0,0.0,0.0,0.0
+834,PBK-170,Current stock,244.0,planned_receipt,600.0,1570.0,90.0,280.0,280.0,590.0,180.0,150.0
+835,PBK-170,Lead Time,30,planned_release,2080.0,1600.0,90.0,400.0,280.0,420.0,360.0,50.0
+836,PBK-170,Safety Stock,0,Balance,-591.0,-2224.0,-682.0,-964.0,-1307.0,-1896.0,-2078.0,-2224.0
+837,PBK-170,Order Policy,FOQ,Balance (+SR),-591.0,-2164.0,-682.0,-964.0,-1247.0,-1836.0,-2018.0,-2164.0
+838,PBK-170,Rounding Value / MOQ,[10/ 10],Balance(+SR+PR),9.0,6.0,8.0,6.0,3.0,4.0,2.0,6.0
+839,PBK-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-411.0,-1984.0,-502.0,-784.0,-1067.0,-1656.0,-1838.0,-1984.0
+840,ABB-073,Item Code,ABB-073,Gross Req,1650.0,3291.0,91.0,640.0,641.0,1054.0,571.0,294.0
+841,ABB-073,Description,Bottom Bracket Aluminium Threaded 73mm,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+842,ABB-073,Current stock,2.0,planned_receipt,1650.0,3294.0,90.0,642.0,642.0,1050.0,576.0,294.0
+843,ABB-073,Lead Time,7,planned_release,2334.0,3402.0,48.0,642.0,1050.0,576.0,918.0,168.0
+844,ABB-073,Safety Stock,0,Balance,-1648.0,-4939.0,-1739.0,-2379.0,-3020.0,-4074.0,-4645.0,-4939.0
+845,ABB-073,Order Policy,FOQ,Balance (+SR),-1648.0,-4939.0,-1739.0,-2379.0,-3020.0,-4074.0,-4645.0,-4939.0
+846,ABB-073,Rounding Value / MOQ,[6/ 24],Balance(+SR+PR),2.0,5.0,1.0,3.0,4.0,0.0,5.0,5.0
+847,ABB-073,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-1564.0,-4855.0,-1655.0,-2295.0,-2936.0,-3990.0,-4561.0,-4855.0
+848,CPK-103,Item Code,CPK-103,Gross Req,88.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0
+849,CPK-103,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Small,Scheduled Rcpt,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0
+850,CPK-103,Current stock,6.0,planned_receipt,84.0,48.0,48.0,0.0,0.0,0.0,0.0,0.0
+851,CPK-103,Lead Time,3,planned_release,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+852,CPK-103,Safety Stock,0,Balance,-82.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0
+853,CPK-103,Order Policy,FOQ,Balance (+SR),-82.0,-129.0,-132.0,-129.0,-129.0,-129.0,-129.0,-129.0
+854,CPK-103,Rounding Value / MOQ,[4/ 2],Balance(+SR+PR),2.0,3.0,0.0,3.0,3.0,3.0,3.0,3.0
+855,CPK-103,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),2.0,-45.0,-48.0,-45.0,-45.0,-45.0,-45.0,-45.0
+856,CPK-440,Item Code,CPK-440,Gross Req,577.0,1415.0,0.0,358.0,200.0,465.0,244.0,148.0
+857,CPK-440,Description,Cut Pieces Kit- 416g UD Carbon Fibre Cloth - Trail Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+858,CPK-440,Current stock,30.0,planned_receipt,548.0,1416.0,0.0,360.0,200.0,464.0,244.0,148.0
+859,CPK-440,Lead Time,3,planned_release,708.0,1308.0,48.0,152.0,352.0,416.0,288.0,52.0
+860,CPK-440,Safety Stock,0,Balance,-547.0,-1962.0,-547.0,-905.0,-1105.0,-1570.0,-1814.0,-1962.0
+861,CPK-440,Order Policy,FOQ,Balance (+SR),-547.0,-1962.0,-547.0,-905.0,-1105.0,-1570.0,-1814.0,-1962.0
+862,CPK-440,Rounding Value / MOQ,[4/ 13],Balance(+SR+PR),1.0,2.0,1.0,3.0,3.0,2.0,2.0,2.0
+863,CPK-440,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-495.0,-1910.0,-495.0,-853.0,-1053.0,-1518.0,-1762.0,-1910.0
+864,RIM-333,Item Code,RIM-333,Gross Req,350.0,707.0,16.0,232.0,123.0,135.0,186.0,15.0
+865,RIM-333,Description,Rim Tape,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+866,RIM-333,Current stock,135.0,planned_receipt,216.0,708.0,24.0,228.0,120.0,144.0,180.0,12.0
+867,RIM-333,Lead Time,30,planned_release,912.0,780.0,12.0,168.0,132.0,108.0,276.0,84.0
+868,RIM-333,Safety Stock,0,Balance,-215.0,-922.0,-231.0,-463.0,-586.0,-721.0,-907.0,-922.0
+869,RIM-333,Order Policy,FOQ,Balance (+SR),-215.0,-922.0,-231.0,-463.0,-586.0,-721.0,-907.0,-922.0
+870,RIM-333,Rounding Value / MOQ,[12/ 12],Balance(+SR+PR),1.0,2.0,9.0,5.0,2.0,11.0,5.0,2.0
+871,RIM-333,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-191.0,-898.0,-207.0,-439.0,-562.0,-697.0,-883.0,-898.0
+872,RHB-732,Item Code,RHB-732,Gross Req,698.0,1249.0,47.0,352.0,168.0,312.0,370.0,0.0
+873,RHB-732,Description,Rear Hub Superlight 32h 12 speed hub MS,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+874,RHB-732,Current stock,206.0,planned_receipt,492.0,1254.0,48.0,354.0,192.0,288.0,372.0,0.0
+875,RHB-732,Lead Time,30,planned_release,1746.0,1452.0,0.0,264.0,258.0,258.0,540.0,132.0
+876,RHB-732,Safety Stock,0,Balance,-492.0,-1741.0,-539.0,-891.0,-1059.0,-1371.0,-1741.0,-1741.0
+877,RHB-732,Order Policy,FOQ,Balance (+SR),-492.0,-1741.0,-539.0,-891.0,-1059.0,-1371.0,-1741.0,-1741.0
+878,RHB-732,Rounding Value / MOQ,[6/ 30],Balance(+SR+PR),0.0,5.0,1.0,3.0,27.0,3.0,5.0,5.0
+879,RHB-732,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-426.0,-1675.0,-473.0,-825.0,-993.0,-1305.0,-1675.0,-1675.0
+880,TBV-100,Item Code,TBV-100,Gross Req,1348.0,2789.0,69.0,888.0,476.0,520.0,786.0,50.0
+881,TBV-100,Description,Tubeless valves - Presta,Scheduled Rcpt,0.0,108.0,0.0,0.0,0.0,0.0,108.0,0.0
+882,TBV-100,Current stock,489.0,planned_receipt,864.0,2676.0,72.0,888.0,468.0,528.0,672.0,48.0
+883,TBV-100,Lead Time,30,planned_release,3492.0,2976.0,48.0,600.0,516.0,408.0,1080.0,324.0
+884,TBV-100,Safety Stock,0,Balance,-859.0,-3648.0,-928.0,-1816.0,-2292.0,-2812.0,-3598.0,-3648.0
+885,TBV-100,Order Policy,FOQ,Balance (+SR),-859.0,-3540.0,-928.0,-1816.0,-2292.0,-2812.0,-3490.0,-3540.0
+886,TBV-100,Rounding Value / MOQ,[12/ 48],Balance(+SR+PR),5.0,0.0,8.0,8.0,0.0,8.0,2.0,0.0
+887,TBV-100,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-715.0,-3396.0,-784.0,-1672.0,-2148.0,-2668.0,-3346.0,-3396.0
+888,MIB-113,Item Code,MIB-113,Gross Req,723.0,791.0,0.0,303.0,163.0,104.0,221.0,0.0
+889,MIB-113,Description,Mould Inflation Bag HB Crank,Scheduled Rcpt,0.0,50.0,0.0,0.0,50.0,0.0,0.0,0.0
+890,MIB-113,Current stock,204.0,planned_receipt,520.0,740.0,0.0,310.0,110.0,100.0,220.0,0.0
+891,MIB-113,Lead Time,60,planned_release,1780.0,1000.0,140.0,310.0,200.0,200.0,150.0,0.0
+892,MIB-113,Safety Stock,0,Balance,-519.0,-1310.0,-519.0,-822.0,-985.0,-1089.0,-1310.0,-1310.0
+893,MIB-113,Order Policy,FOQ,Balance (+SR),-519.0,-1260.0,-519.0,-822.0,-935.0,-1039.0,-1260.0,-1260.0
+894,MIB-113,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),1.0,0.0,1.0,8.0,5.0,1.0,0.0,0.0
+895,MIB-113,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-469.0,-1210.0,-469.0,-772.0,-885.0,-989.0,-1210.0,-1210.0
+896,PCC-101,Item Code,PCC-101,Gross Req,84.0,169.0,5.0,33.0,32.0,53.0,31.0,15.0
+897,PCC-101,Description,"Clear coat, 5ltr",Scheduled Rcpt,0.0,20.0,0.0,0.0,0.0,20.0,0.0,0.0
+898,PCC-101,Current stock,17.0,planned_receipt,70.0,154.0,14.0,28.0,28.0,42.0,28.0,14.0
+899,PCC-101,Lead Time,21,planned_release,182.0,154.0,0.0,28.0,42.0,28.0,42.0,14.0
+900,PCC-101,Safety Stock,0,Balance,-67.0,-236.0,-72.0,-105.0,-137.0,-190.0,-221.0,-236.0
+901,PCC-101,Order Policy,FOQ,Balance (+SR),-67.0,-216.0,-72.0,-105.0,-137.0,-170.0,-201.0,-216.0
+902,PCC-101,Rounding Value / MOQ,[1/ 14],Balance(+SR+PR),3.0,8.0,12.0,7.0,3.0,12.0,9.0,8.0
+903,PCC-101,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-53.0,-202.0,-58.0,-91.0,-123.0,-156.0,-187.0,-202.0
+904,CPK-105,Item Code,CPK-105,Gross Req,138.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+905,CPK-105,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,CPK-105,Current stock,6.0,planned_receipt,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+907,CPK-105,Lead Time,3,planned_release,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+908,CPK-105,Safety Stock,0,Balance,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0
+909,CPK-105,Order Policy,L4L,Balance (+SR),-132.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0,-132.0
+910,CPK-105,Rounding Value / MOQ,[4/ 1],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+911,CPK-105,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-48.0,-48.0,-48.0,-48.0,-48.0,-48.0,-48.0,-48.0
+912,GRS-110,Item Code,GRS-110,Gross Req,644.0,1524.0,91.0,245.0,383.0,376.0,327.0,102.0
+913,GRS-110,Description,Grommet set - XC,Scheduled Rcpt,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0
+914,GRS-110,Current stock,69.0,planned_receipt,575.0,1505.0,95.0,225.0,380.0,375.0,330.0,100.0
+915,GRS-110,Lead Time,30,planned_release,2035.0,1775.0,45.0,405.0,350.0,485.0,490.0,0.0
+916,GRS-110,Safety Stock,0,Balance,-575.0,-2099.0,-666.0,-911.0,-1294.0,-1670.0,-1997.0,-2099.0
+917,GRS-110,Order Policy,FOQ,Balance (+SR),-575.0,-2079.0,-666.0,-891.0,-1274.0,-1650.0,-1977.0,-2079.0
+918,GRS-110,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),0.0,1.0,4.0,4.0,1.0,0.0,3.0,1.0
+919,GRS-110,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-525.0,-2029.0,-616.0,-841.0,-1224.0,-1600.0,-1927.0,-2029.0
+920,RIM-427,Item Code,RIM-427,Gross Req,622.0,1327.0,0.0,456.0,224.0,111.0,536.0,0.0
+921,RIM-427,Description,Rim - 275 Enduro/Trail,Scheduled Rcpt,0.0,22.0,0.0,22.0,0.0,0.0,0.0,0.0
+922,RIM-427,Current stock,64.0,planned_receipt,558.0,1305.0,0.0,434.0,224.0,111.0,536.0,0.0
+923,RIM-427,Lead Time,7,planned_release,992.0,981.0,0.0,224.0,111.0,536.0,44.0,66.0
+924,RIM-427,Safety Stock,0,Balance,-558.0,-1885.0,-558.0,-1014.0,-1238.0,-1349.0,-1885.0,-1885.0
+925,RIM-427,Order Policy,FOQ,Balance (+SR),-558.0,-1863.0,-558.0,-992.0,-1216.0,-1327.0,-1863.0,-1863.0
+926,RIM-427,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+927,RIM-427,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-540.0,-1845.0,-540.0,-974.0,-1198.0,-1309.0,-1845.0,-1845.0
+928,CPK-115,Item Code,CPK-115,Gross Req,178.0,435.0,0.0,100.0,115.0,116.0,104.0,0.0
+929,CPK-115,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Medium,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+930,CPK-115,Current stock,9.0,planned_receipt,172.0,432.0,0.0,100.0,112.0,116.0,104.0,0.0
+931,CPK-115,Lead Time,3,planned_release,272.0,392.0,0.0,0.0,172.0,116.0,44.0,60.0
+932,CPK-115,Safety Stock,0,Balance,-169.0,-604.0,-169.0,-269.0,-384.0,-500.0,-604.0,-604.0
+933,CPK-115,Order Policy,FOQ,Balance (+SR),-169.0,-604.0,-169.0,-269.0,-384.0,-500.0,-604.0,-604.0
+934,CPK-115,Rounding Value / MOQ,[4/ 3],Balance(+SR+PR),3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0
+935,CPK-115,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-97.0,-532.0,-97.0,-197.0,-312.0,-428.0,-532.0,-532.0
+936,RIM-429,Item Code,RIM-429,Gross Req,678.0,1892.0,44.0,616.0,428.0,408.0,296.0,100.0
+937,RIM-429,Description,Rim - 295 Enduro/Trail,Scheduled Rcpt,0.0,61.0,0.0,61.0,0.0,0.0,0.0,0.0
+938,RIM-429,Current stock,223.0,planned_receipt,455.0,1831.0,44.0,555.0,428.0,408.0,296.0,100.0
+939,RIM-429,Lead Time,7,planned_release,944.0,1934.0,110.0,428.0,408.0,296.0,620.0,72.0
+940,RIM-429,Safety Stock,0,Balance,-455.0,-2347.0,-499.0,-1115.0,-1543.0,-1951.0,-2247.0,-2347.0
+941,RIM-429,Order Policy,FOQ,Balance (+SR),-455.0,-2286.0,-499.0,-1054.0,-1482.0,-1890.0,-2186.0,-2286.0
+942,RIM-429,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+943,RIM-429,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-400.0,-2231.0,-444.0,-999.0,-1427.0,-1835.0,-2131.0,-2231.0
+944,DCL-140,Item Code,DCL-140,Gross Req,577.0,1415.0,0.0,358.0,200.0,465.0,244.0,148.0
+945,DCL-140,Description,Decals - Frame - Trail,Scheduled Rcpt,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0
+946,DCL-140,Current stock,54.0,planned_receipt,540.0,1380.0,0.0,360.0,180.0,460.0,240.0,140.0
+947,DCL-140,Lead Time,14,planned_release,960.0,1380.0,120.0,460.0,240.0,240.0,180.0,140.0
+948,DCL-140,Safety Stock,0,Balance,-523.0,-1938.0,-523.0,-881.0,-1081.0,-1546.0,-1790.0,-1938.0
+949,DCL-140,Order Policy,FOQ,Balance (+SR),-523.0,-1918.0,-523.0,-861.0,-1061.0,-1526.0,-1770.0,-1918.0
+950,DCL-140,Rounding Value / MOQ,[20/ 20],Balance(+SR+PR),17.0,2.0,17.0,39.0,19.0,14.0,10.0,2.0
+951,DCL-140,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-483.0,-1878.0,-483.0,-821.0,-1021.0,-1486.0,-1730.0,-1878.0
+952,CPK-200,Item Code,CPK-200,Gross Req,313.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+953,CPK-200,Description,Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Gravel Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+954,CPK-200,Current stock,16.0,planned_receipt,300.0,100.0,48.0,0.0,52.0,0.0,0.0,0.0
+955,CPK-200,Lead Time,3,planned_release,348.0,52.0,0.0,52.0,0.0,0.0,0.0,0.0
+956,CPK-200,Safety Stock,0,Balance,-297.0,-397.0,-347.0,-347.0,-397.0,-397.0,-397.0,-397.0
+957,CPK-200,Order Policy,FOQ,Balance (+SR),-297.0,-397.0,-347.0,-347.0,-397.0,-397.0,-397.0,-397.0
+958,CPK-200,Rounding Value / MOQ,[4/ 7],Balance(+SR+PR),3.0,3.0,1.0,1.0,3.0,3.0,3.0,3.0
+959,CPK-200,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-49.0,-149.0,-99.0,-99.0,-149.0,-149.0,-149.0,-149.0
+960,ASL-110,Item Code,ASL-110,Gross Req,644.0,1711.0,91.0,268.0,420.0,439.0,327.0,166.0
+961,ASL-110,Description,Alloy Suspension Link - XC,Scheduled Rcpt,0.0,135.0,0.0,0.0,0.0,135.0,0.0,0.0
+962,ASL-110,Current stock,27.0,planned_receipt,617.0,1576.0,91.0,268.0,420.0,385.0,246.0,166.0
+963,ASL-110,Lead Time,3,planned_release,864.0,1616.0,40.0,229.0,498.0,284.0,405.0,160.0
+964,ASL-110,Safety Stock,0,Balance,-617.0,-2328.0,-708.0,-976.0,-1396.0,-1835.0,-2162.0,-2328.0
+965,ASL-110,Order Policy,FOQ,Balance (+SR),-617.0,-2193.0,-708.0,-976.0,-1396.0,-1700.0,-2027.0,-2193.0
+966,ASL-110,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,81.0,0.0,0.0
+967,ASL-110,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-527.0,-2103.0,-618.0,-886.0,-1306.0,-1610.0,-1937.0,-2103.0
+968,CPK-270,Item Code,CPK-270,Gross Req,429.0,352.0,0.0,37.0,58.0,213.0,0.0,44.0
+969,CPK-270,Description,Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Enduro Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+970,CPK-270,Current stock,75.0,planned_receipt,356.0,352.0,0.0,36.0,72.0,200.0,0.0,44.0
+971,CPK-270,Lead Time,3,planned_release,356.0,352.0,0.0,108.0,84.0,116.0,44.0,0.0
+972,CPK-270,Safety Stock,0,Balance,-354.0,-706.0,-354.0,-391.0,-449.0,-662.0,-662.0,-706.0
+973,CPK-270,Order Policy,FOQ,Balance (+SR),-354.0,-706.0,-354.0,-391.0,-449.0,-662.0,-662.0,-706.0
+974,CPK-270,Rounding Value / MOQ,[4/ 20],Balance(+SR+PR),2.0,2.0,2.0,1.0,15.0,2.0,2.0,2.0
+975,CPK-270,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-310.0,-662.0,-310.0,-347.0,-405.0,-618.0,-618.0,-662.0
+976,CPK-113,Item Code,CPK-113,Gross Req,228.0,846.0,91.0,145.0,170.0,260.0,78.0,102.0
+977,CPK-113,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Small,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+978,CPK-113,Current stock,11.0,planned_receipt,220.0,844.0,88.0,148.0,168.0,260.0,80.0,100.0
+979,CPK-113,Lead Time,3,planned_release,364.0,804.0,40.0,160.0,176.0,184.0,140.0,104.0
+980,CPK-113,Safety Stock,0,Balance,-217.0,-1063.0,-308.0,-453.0,-623.0,-883.0,-961.0,-1063.0
+981,CPK-113,Order Policy,FOQ,Balance (+SR),-217.0,-1063.0,-308.0,-453.0,-623.0,-883.0,-961.0,-1063.0
+982,CPK-113,Rounding Value / MOQ,[4/ 5],Balance(+SR+PR),3.0,1.0,0.0,3.0,1.0,1.0,3.0,1.0
+983,CPK-113,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-109.0,-955.0,-200.0,-345.0,-515.0,-775.0,-853.0,-955.0
+984,MIB-114,Item Code,MIB-114,Gross Req,313.0,108.0,50.0,7.0,51.0,0.0,0.0,0.0
+985,MIB-114,Description,Mould Inflation Bag HB Drop,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+986,MIB-114,Current stock,62.0,planned_receipt,260.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+987,MIB-114,Lead Time,60,planned_release,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+988,MIB-114,Safety Stock,0,Balance,-251.0,-359.0,-301.0,-308.0,-359.0,-359.0,-359.0,-359.0
+989,MIB-114,Order Policy,FOQ,Balance (+SR),-251.0,-359.0,-301.0,-308.0,-359.0,-359.0,-359.0,-359.0
+990,MIB-114,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),9.0,1.0,9.0,2.0,1.0,1.0,1.0,1.0
+991,MIB-114,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-41.0,-149.0,-91.0,-98.0,-149.0,-149.0,-149.0,-149.0
+992,CPK-220,Item Code,CPK-220,Gross Req,723.0,791.0,0.0,303.0,163.0,104.0,221.0,0.0
+993,CPK-220,Description,Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Cranks,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+994,CPK-220,Current stock,53.0,planned_receipt,672.0,792.0,0.0,304.0,160.0,104.0,224.0,0.0
+995,CPK-220,Lead Time,3,planned_release,672.0,844.0,104.0,220.0,140.0,212.0,116.0,52.0
+996,CPK-220,Safety Stock,0,Balance,-670.0,-1461.0,-670.0,-973.0,-1136.0,-1240.0,-1461.0,-1461.0
+997,CPK-220,Order Policy,FOQ,Balance (+SR),-670.0,-1461.0,-670.0,-973.0,-1136.0,-1240.0,-1461.0,-1461.0
+998,CPK-220,Rounding Value / MOQ,[4/ 19],Balance(+SR+PR),2.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0
+999,CPK-220,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-478.0,-1269.0,-478.0,-781.0,-944.0,-1048.0,-1269.0,-1269.0
+1000,CPK-210,Item Code,CPK-210,Gross Req,644.0,1524.0,91.0,245.0,383.0,376.0,327.0,102.0
+1001,CPK-210,Description,Cut Pieces Kit- 245g UD Carbon Fibre Cloth - XC Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1002,CPK-210,Current stock,27.0,planned_receipt,620.0,1524.0,88.0,248.0,380.0,376.0,328.0,104.0
+1003,CPK-210,Lead Time,3,planned_release,864.0,1564.0,40.0,208.0,396.0,420.0,340.0,160.0
+1004,CPK-210,Safety Stock,0,Balance,-617.0,-2141.0,-708.0,-953.0,-1336.0,-1712.0,-2039.0,-2141.0
+1005,CPK-210,Order Policy,FOQ,Balance (+SR),-617.0,-2141.0,-708.0,-953.0,-1336.0,-1712.0,-2039.0,-2141.0
+1006,CPK-210,Rounding Value / MOQ,[4/ 11],Balance(+SR+PR),3.0,3.0,0.0,3.0,0.0,0.0,1.0,3.0
+1007,CPK-210,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-525.0,-2049.0,-616.0,-861.0,-1244.0,-1620.0,-1947.0,-2049.0
+1008,RIM-700,Item Code,RIM-700,Gross Req,460.0,613.0,0.0,346.0,104.0,96.0,67.0,0.0
+1009,RIM-700,Description,Rim - 700c Gravel,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1010,RIM-700,Current stock,60.0,planned_receipt,400.0,613.0,0.0,346.0,104.0,96.0,67.0,0.0
+1011,RIM-700,Lead Time,7,planned_release,746.0,365.0,0.0,104.0,96.0,67.0,98.0,0.0
+1012,RIM-700,Safety Stock,0,Balance,-400.0,-1013.0,-400.0,-746.0,-850.0,-946.0,-1013.0,-1013.0
+1013,RIM-700,Order Policy,FOQ,Balance (+SR),-400.0,-1013.0,-400.0,-746.0,-850.0,-946.0,-1013.0,-1013.0
+1014,RIM-700,Rounding Value / MOQ,[1/ 4],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1015,RIM-700,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),0.0,-613.0,0.0,-346.0,-450.0,-546.0,-613.0,-613.0
+1016,MIB-115,Item Code,MIB-115,Gross Req,1466.0,1734.0,116.0,421.0,459.0,320.0,313.0,105.0
+1017,MIB-115,Description,Mould Inflation Bag HB Straight,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1018,MIB-115,Current stock,706.0,planned_receipt,760.0,1740.0,120.0,420.0,460.0,320.0,310.0,110.0
+1019,MIB-115,Lead Time,60,planned_release,4010.0,1610.0,140.0,590.0,230.0,350.0,200.0,100.0
+1020,MIB-115,Safety Stock,0,Balance,-760.0,-2494.0,-876.0,-1297.0,-1756.0,-2076.0,-2389.0,-2494.0
+1021,MIB-115,Order Policy,FOQ,Balance (+SR),-760.0,-2494.0,-876.0,-1297.0,-1756.0,-2076.0,-2389.0,-2494.0
+1022,MIB-115,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),0.0,6.0,4.0,3.0,4.0,4.0,1.0,6.0
+1023,MIB-115,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-560.0,-2294.0,-676.0,-1097.0,-1556.0,-1876.0,-2189.0,-2294.0
+1024,HSX-040,Item Code,HSX-040,Gross Req,313.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+1025,HSX-040,Description,Cane Creek 40-Series Headset,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1026,HSX-040,Current stock,41.0,planned_receipt,272.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+1027,HSX-040,Lead Time,30,planned_release,372.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1028,HSX-040,Safety Stock,0,Balance,-272.0,-372.0,-322.0,-322.0,-372.0,-372.0,-372.0,-372.0
+1029,HSX-040,Order Policy,FOQ,Balance (+SR),-272.0,-372.0,-322.0,-322.0,-372.0,-372.0,-372.0,-372.0
+1030,HSX-040,Rounding Value / MOQ,[1/ 20],Balance(+SR+PR),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1031,HSX-040,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-50.0,-150.0,-100.0,-100.0,-150.0,-150.0,-150.0,-150.0
+1032,DCL-170,Item Code,DCL-170,Gross Req,429.0,352.0,0.0,37.0,58.0,213.0,0.0,44.0
+1033,DCL-170,Description,Decals - Frame - Enduro,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1034,DCL-170,Current stock,135.0,planned_receipt,300.0,360.0,0.0,40.0,60.0,220.0,0.0,40.0
+1035,DCL-170,Lead Time,14,planned_release,400.0,480.0,0.0,220.0,0.0,220.0,0.0,40.0
+1036,DCL-170,Safety Stock,0,Balance,-294.0,-646.0,-294.0,-331.0,-389.0,-602.0,-602.0,-646.0
+1037,DCL-170,Order Policy,FOQ,Balance (+SR),-294.0,-646.0,-294.0,-331.0,-389.0,-602.0,-602.0,-646.0
+1038,DCL-170,Rounding Value / MOQ,[20/ 20],Balance(+SR+PR),6.0,14.0,6.0,9.0,11.0,18.0,18.0,14.0
+1039,DCL-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-254.0,-606.0,-254.0,-291.0,-349.0,-562.0,-562.0,-606.0
+1040,CPE-177,Item Code,CPE-177,Gross Req,188.0,44.0,0.0,0.0,0.0,0.0,0.0,44.0
+1041,CPE-177,Description,Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Large,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1042,CPE-177,Current stock,37.0,planned_receipt,152.0,44.0,0.0,0.0,0.0,0.0,0.0,44.0
+1043,CPE-177,Lead Time,3,planned_release,152.0,44.0,0.0,0.0,0.0,0.0,44.0,0.0
+1044,CPE-177,Safety Stock,0,Balance,-151.0,-195.0,-151.0,-151.0,-151.0,-151.0,-151.0,-195.0
+1045,CPE-177,Order Policy,FOQ,Balance (+SR),-151.0,-195.0,-151.0,-151.0,-151.0,-151.0,-151.0,-195.0
+1046,CPE-177,Rounding Value / MOQ,[4/ 16],Balance(+SR+PR),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1047,CPE-177,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-103.0,-147.0,-103.0,-103.0,-103.0,-103.0,-103.0,-147.0
+1048,GRS-140,Item Code,GRS-140,Gross Req,577.0,1415.0,0.0,358.0,200.0,465.0,244.0,148.0
+1049,GRS-140,Description,Grommet set - Trail,Scheduled Rcpt,0.0,20.0,0.0,0.0,0.0,20.0,0.0,0.0
+1050,GRS-140,Current stock,77.0,planned_receipt,500.0,1395.0,0.0,360.0,200.0,465.0,225.0,145.0
+1051,GRS-140,Lead Time,30,planned_release,1845.0,1320.0,50.0,215.0,195.0,400.0,345.0,115.0
+1052,GRS-140,Safety Stock,0,Balance,-500.0,-1915.0,-500.0,-858.0,-1058.0,-1523.0,-1767.0,-1915.0
+1053,GRS-140,Order Policy,FOQ,Balance (+SR),-500.0,-1895.0,-500.0,-858.0,-1058.0,-1503.0,-1747.0,-1895.0
+1054,GRS-140,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),0.0,0.0,0.0,2.0,2.0,22.0,3.0,0.0
+1055,GRS-140,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-480.0,-1875.0,-480.0,-838.0,-1038.0,-1483.0,-1727.0,-1875.0
+1056,GRS-170,Item Code,GRS-170,Gross Req,429.0,352.0,0.0,37.0,58.0,213.0,0.0,44.0
+1057,GRS-170,Description,Grommet set - Enduro,Scheduled Rcpt,0.0,50.0,0.0,0.0,50.0,0.0,0.0,0.0
+1058,GRS-170,Current stock,193.0,planned_receipt,240.0,300.0,0.0,35.0,70.0,150.0,0.0,45.0
+1059,GRS-170,Lead Time,30,planned_release,495.0,420.0,45.0,180.0,40.0,55.0,50.0,50.0
+1060,GRS-170,Safety Stock,0,Balance,-236.0,-588.0,-236.0,-273.0,-331.0,-544.0,-544.0,-588.0
+1061,GRS-170,Order Policy,FOQ,Balance (+SR),-236.0,-538.0,-236.0,-273.0,-281.0,-494.0,-494.0,-538.0
+1062,GRS-170,Rounding Value / MOQ,[5/ 20],Balance(+SR+PR),4.0,2.0,4.0,2.0,64.0,1.0,1.0,2.0
+1063,GRS-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-101.0,-403.0,-101.0,-138.0,-146.0,-359.0,-359.0,-403.0
+1064,ABB-068,Item Code,ABB-068,Gross Req,313.0,100.0,50.0,0.0,50.0,0.0,0.0,0.0
+1065,ABB-068,Description,Bottom Bracket Aluminium Threaded 68mm,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1066,ABB-068,Current stock,21.0,planned_receipt,294.0,102.0,48.0,0.0,54.0,0.0,0.0,0.0
+1067,ABB-068,Lead Time,7,planned_release,342.0,54.0,0.0,54.0,0.0,0.0,0.0,0.0
+1068,ABB-068,Safety Stock,0,Balance,-292.0,-392.0,-342.0,-342.0,-392.0,-392.0,-392.0,-392.0
+1069,ABB-068,Order Policy,FOQ,Balance (+SR),-292.0,-392.0,-342.0,-342.0,-392.0,-392.0,-392.0,-392.0
+1070,ABB-068,Rounding Value / MOQ,[6/ 10],Balance(+SR+PR),2.0,4.0,0.0,0.0,4.0,4.0,4.0,4.0
+1071,ABB-068,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-46.0,-146.0,-96.0,-96.0,-146.0,-146.0,-146.0,-146.0
+1072,HSX-214,Item Code,HSX-214,Gross Req,1650.0,3291.0,91.0,640.0,641.0,1054.0,571.0,294.0
+1073,HSX-214,Description,Tapered Headset,Scheduled Rcpt,0.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0
+1074,HSX-214,Current stock,339.0,planned_receipt,1320.0,3190.0,100.0,600.0,570.0,1100.0,520.0,300.0
+1075,HSX-214,Lead Time,30,planned_release,4370.0,3550.0,140.0,820.0,560.0,940.0,880.0,210.0
+1076,HSX-214,Safety Stock,0,Balance,-1311.0,-4602.0,-1402.0,-2042.0,-2683.0,-3737.0,-4308.0,-4602.0
+1077,HSX-214,Order Policy,FOQ,Balance (+SR),-1311.0,-4502.0,-1402.0,-1942.0,-2583.0,-3637.0,-4208.0,-4502.0
+1078,HSX-214,Rounding Value / MOQ,[10/ 100],Balance(+SR+PR),9.0,8.0,18.0,78.0,7.0,53.0,2.0,8.0
+1079,HSX-214,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-1121.0,-4312.0,-1212.0,-1752.0,-2393.0,-3447.0,-4018.0,-4312.0
+1080,ASL-170,Item Code,ASL-170,Gross Req,429.0,489.0,0.0,37.0,98.0,213.0,97.0,44.0
+1081,ASL-170,Description,Alloy Suspension Link Kit - Enduro,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1082,ASL-170,Current stock,75.0,planned_receipt,354.0,489.0,0.0,37.0,100.0,211.0,97.0,44.0
+1083,ASL-170,Lead Time,3,planned_release,354.0,489.0,0.0,137.0,95.0,168.0,89.0,0.0
+1084,ASL-170,Safety Stock,0,Balance,-354.0,-843.0,-354.0,-391.0,-489.0,-702.0,-799.0,-843.0
+1085,ASL-170,Order Policy,FOQ,Balance (+SR),-354.0,-843.0,-354.0,-391.0,-489.0,-702.0,-799.0,-843.0
+1086,ASL-170,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+1087,ASL-170,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-311.0,-800.0,-311.0,-348.0,-446.0,-659.0,-756.0,-800.0
+1088,MIB-111,Item Code,MIB-111,Gross Req,1875.0,3341.0,91.0,640.0,691.0,1054.0,571.0,294.0
+1089,MIB-111,Description,Mould Inflation Bag - Frame,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1090,MIB-111,Current stock,302.0,planned_receipt,1580.0,3340.0,90.0,640.0,690.0,1050.0,570.0,300.0
+1091,MIB-111,Lead Time,21,planned_release,4000.0,3240.0,50.0,570.0,930.0,450.0,880.0,360.0
+1092,MIB-111,Safety Stock,0,Balance,-1573.0,-4914.0,-1664.0,-2304.0,-2995.0,-4049.0,-4620.0,-4914.0
+1093,MIB-111,Order Policy,FOQ,Balance (+SR),-1573.0,-4914.0,-1664.0,-2304.0,-2995.0,-4049.0,-4620.0,-4914.0
+1094,MIB-111,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),7.0,6.0,6.0,6.0,5.0,1.0,0.0,6.0
+1095,MIB-111,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-1343.0,-4684.0,-1434.0,-2074.0,-2765.0,-3819.0,-4390.0,-4684.0
+1096,PBK-140,Item Code,PBK-140,Gross Req,577.0,1415.0,0.0,358.0,200.0,465.0,244.0,148.0
+1097,PBK-140,Description,Pivot Bolt Kit - Trail,Scheduled Rcpt,0.0,50.0,0.0,0.0,0.0,50.0,0.0,0.0
+1098,PBK-140,Current stock,77.0,planned_receipt,500.0,1370.0,0.0,360.0,200.0,470.0,200.0,140.0
+1099,PBK-140,Lead Time,30,planned_release,1820.0,1320.0,50.0,210.0,200.0,400.0,340.0,120.0
+1100,PBK-140,Safety Stock,0,Balance,-500.0,-1915.0,-500.0,-858.0,-1058.0,-1523.0,-1767.0,-1915.0
+1101,PBK-140,Order Policy,FOQ,Balance (+SR),-500.0,-1865.0,-500.0,-858.0,-1058.0,-1473.0,-1717.0,-1865.0
+1102,PBK-140,Rounding Value / MOQ,[10/ 50],Balance(+SR+PR),0.0,5.0,0.0,2.0,2.0,57.0,13.0,5.0
+1103,PBK-140,Cover Days / Week Day / Max Level,[nan/ nan/ nan],Balance(+SR+1st PR),-450.0,-1815.0,-450.0,-808.0,-1008.0,-1423.0,-1667.0,-1815.0
+1104,ALB-754,Item Code,ALB-754,Gross Req,224.0,1145.0,9.0,623.0,211.0,214.0,78.0,10.0
+1105,ALB-754,Description,Aluminium Billet 7075 size 4,Scheduled Rcpt,0.0,288.0,24.0,264.0,0.0,0.0,0.0,0.0
+1106,ALB-754,Current stock,32.0,planned_receipt,242.0,1003.0,0.0,481.0,277.0,89.0,0.0,156.0
+1107,ALB-754,Lead Time,10,planned_release,723.0,522.0,0.0,277.0,89.0,156.0,0.0,0.0
+1108,ALB-754,Safety Stock,50,Balance,-192.0,-1337.0,-201.0,-824.0,-1035.0,-1249.0,-1327.0,-1337.0
+1109,ALB-754,Order Policy,COVER_DAYS,Balance (+SR),-192.0,-1049.0,-177.0,-536.0,-747.0,-961.0,-1039.0,-1049.0
+1110,ALB-754,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),50.0,196.0,65.0,187.0,253.0,128.0,50.0,196.0
+1111,ALB-754,Cover Days / Week Day / Max Level,[7.0/ nan/ nan],Balance(+SR+1st PR),-15.0,-872.0,0.0,-359.0,-570.0,-784.0,-862.0,-872.0
+1112,CFC-245,Item Code,CFC-245,Gross Req,2896.0,4104.0,129.0,723.0,1045.0,1158.0,846.0,203.0
+1113,CFC-245,Description,Carbon Fibre Cloth 245g UD roll 1m length,Scheduled Rcpt,0.0,220.0,0.0,120.0,0.0,100.0,0.0,0.0
+1114,CFC-245,Current stock,392.0,planned_receipt,3240.0,4420.0,0.0,620.0,1140.0,920.0,940.0,800.0
+1115,CFC-245,Lead Time,21,planned_release,5920.0,4700.0,0.0,940.0,800.0,620.0,1300.0,1040.0
+1116,CFC-245,Safety Stock,500,Balance,-2504.0,-6608.0,-2633.0,-3356.0,-4401.0,-5559.0,-6405.0,-6608.0
+1117,CFC-245,Order Policy,WEEKLY_CALENDAR,Balance (+SR),-2504.0,-6388.0,-2633.0,-3236.0,-4281.0,-5339.0,-6185.0,-6388.0
+1118,CFC-245,Rounding Value / MOQ,[20/ 60],Balance(+SR+PR),736.0,1272.0,607.0,624.0,719.0,581.0,675.0,1272.0
+1119,CFC-245,Cover Days / Week Day / Max Level,[nan/ Tuesday/ nan],Balance(+SR+1st PR),-2384.0,-6268.0,-2513.0,-3116.0,-4161.0,-5219.0,-6065.0,-6268.0
+1120,ALB-756,Item Code,ALB-756,Gross Req,1753.0,2233.0,40.0,467.0,623.0,405.0,573.0,125.0
+1121,ALB-756,Description,Aluminium Billet 7075 size 6,Scheduled Rcpt,0.0,112.0,39.0,43.0,30.0,0.0,0.0,0.0
+1122,ALB-756,Current stock,134.0,planned_receipt,1919.0,2190.0,425.0,0.0,676.0,512.0,577.0,0.0
+1123,ALB-756,Lead Time,10,planned_release,3020.0,2043.0,0.0,512.0,577.0,0.0,393.0,561.0
+1124,ALB-756,Safety Stock,300,Balance,-1619.0,-3852.0,-1659.0,-2126.0,-2749.0,-3154.0,-3727.0,-3852.0
+1125,ALB-756,Order Policy,COVER_DAYS,Balance (+SR),-1619.0,-3740.0,-1620.0,-2044.0,-2637.0,-3042.0,-3615.0,-3740.0
+1126,ALB-756,Rounding Value / MOQ,[1/ 10],Balance(+SR+PR),300.0,369.0,724.0,300.0,383.0,490.0,494.0,369.0
+1127,ALB-756,Cover Days / Week Day / Max Level,[7.0/ nan/ nan],Balance(+SR+1st PR),-578.0,-2699.0,-579.0,-1003.0,-1596.0,-2001.0,-2574.0,-2699.0
+1128,CFC-416,Item Code,CFC-416,Gross Req,420.0,651.0,19.0,101.0,172.0,209.0,130.0,20.0
+1129,CFC-416,Description,Carbon Fibre Cloth 416g UD roll 1m length,Scheduled Rcpt,0.0,20.0,0.0,0.0,20.0,0.0,0.0,0.0
+1130,CFC-416,Current stock,92.0,planned_receipt,380.0,760.0,0.0,80.0,220.0,160.0,120.0,180.0
+1131,CFC-416,Lead Time,21,planned_release,840.0,760.0,0.0,120.0,180.0,60.0,220.0,180.0
+1132,CFC-416,Safety Stock,10,Balance,-328.0,-979.0,-347.0,-448.0,-620.0,-829.0,-959.0,-979.0
+1133,CFC-416,Order Policy,WEEKLY_CALENDAR,Balance (+SR),-328.0,-959.0,-347.0,-448.0,-600.0,-809.0,-939.0,-959.0
+1134,CFC-416,Rounding Value / MOQ,[20/ 20],Balance(+SR+PR),52.0,181.0,33.0,12.0,80.0,31.0,21.0,181.0
+1135,CFC-416,Cover Days / Week Day / Max Level,[nan/ Tuesday/ nan],Balance(+SR+1st PR),-148.0,-779.0,-167.0,-268.0,-420.0,-629.0,-759.0,-779.0
+1136,BBS-073,Item Code,BBS-073,Gross Req,2334.0,3402.0,48.0,642.0,1050.0,576.0,918.0,168.0
+1137,BBS-073,Description,Bottom Bracket Seal Kit 73mm,Scheduled Rcpt,0.0,262.0,222.0,40.0,0.0,0.0,0.0,0.0
+1138,BBS-073,Current stock,352.0,planned_receipt,1992.0,3320.0,0.0,740.0,1062.0,828.0,690.0,0.0
+1139,BBS-073,Lead Time,30,planned_release,5312.0,3170.0,0.0,734.0,1038.0,918.0,480.0,0.0
+1140,BBS-073,Safety Stock,10,Balance,-1982.0,-5384.0,-2030.0,-2672.0,-3722.0,-4298.0,-5216.0,-5384.0
+1141,BBS-073,Order Policy,COVER_DAYS,Balance (+SR),-1982.0,-5122.0,-1808.0,-2410.0,-3460.0,-4036.0,-4954.0,-5122.0
+1142,BBS-073,Rounding Value / MOQ,[1/ 6],Balance(+SR+PR),10.0,190.0,184.0,322.0,334.0,586.0,358.0,190.0
+1143,BBS-073,Cover Days / Week Day / Max Level,[7.0/ nan/ nan],Balance(+SR+1st PR),-584.0,-3724.0,-410.0,-1012.0,-2062.0,-2638.0,-3556.0,-3724.0
+1144,BBS-068,Item Code,BBS-068,Gross Req,342.0,54.0,0.0,54.0,0.0,0.0,0.0,0.0
+1145,BBS-068,Description,Bottom Bracket Seal Kit 68mm,Scheduled Rcpt,0.0,138.0,51.0,87.0,0.0,0.0,0.0,0.0
+1146,BBS-068,Current stock,33.0,planned_receipt,319.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1147,BBS-068,Lead Time,30,planned_release,319.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1148,BBS-068,Safety Stock,10,Balance,-309.0,-363.0,-309.0,-363.0,-363.0,-363.0,-363.0,-363.0
+1149,BBS-068,Order Policy,COVER_DAYS,Balance (+SR),-309.0,-225.0,-258.0,-225.0,-225.0,-225.0,-225.0,-225.0
+1150,BBS-068,Rounding Value / MOQ,[1/ 6],Balance(+SR+PR),10.0,94.0,61.0,94.0,94.0,94.0,94.0,94.0
+1151,BBS-068,Cover Days / Week Day / Max Level,[7.0/ nan/ nan],Balance(+SR+1st PR),10.0,94.0,61.0,94.0,94.0,94.0,94.0,94.0
+1152,MIB-112,Item Code,MIB-112,Gross Req,4101.0,5220.0,110.0,988.0,1143.0,1639.0,1202.0,138.0
+1153,MIB-112,Description,Mould Inflation Bag - Rims,Scheduled Rcpt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1154,MIB-112,Current stock,411.0,planned_receipt,4010.0,5890.0,0.0,960.0,1080.0,1530.0,1340.0,980.0
+1155,MIB-112,Lead Time,21,planned_release,7580.0,6850.0,0.0,1340.0,980.0,960.0,2070.0,1500.0
+1156,MIB-112,Safety Stock,10,Balance,-3690.0,-8910.0,-3800.0,-4788.0,-5931.0,-7570.0,-8772.0,-8910.0
+1157,MIB-112,Order Policy,WEEKLY_CALENDAR,Balance (+SR),-3690.0,-8910.0,-3800.0,-4788.0,-5931.0,-7570.0,-8772.0,-8910.0
+1158,MIB-112,Rounding Value / MOQ,[10/ 20],Balance(+SR+PR),320.0,990.0,210.0,182.0,119.0,10.0,148.0,990.0
+1159,MIB-112,Cover Days / Week Day / Max Level,[nan/ Tuesday/ nan],Balance(+SR+1st PR),-1610.0,-6830.0,-1720.0,-2708.0,-3851.0,-5490.0,-6692.0,-6830.0
+1160,BBB-030,Item Code,BBB-030,Gross Req,5352.0,6912.0,96.0,1392.0,2100.0,1152.0,1836.0,336.0
+1161,BBB-030,Description,Bottom Bracket Bearings 30mm Axle,Scheduled Rcpt,0.0,203.0,97.0,106.0,0.0,0.0,0.0,0.0
+1162,BBB-030,Current stock,771.0,planned_receipt,4700.0,6960.0,0.0,1800.0,2124.0,1656.0,1380.0,0.0
+1163,BBB-030,Lead Time,30,planned_release,11660.0,6661.0,0.0,1502.0,2232.0,1967.0,960.0,0.0
+1164,BBB-030,Safety Stock,10,Balance,-4581.0,-11493.0,-4677.0,-6069.0,-8169.0,-9321.0,-11157.0,-11493.0
+1165,BBB-030,Order Policy,COVER_DAYS,Balance (+SR),-4581.0,-11290.0,-4580.0,-5866.0,-7966.0,-9118.0,-10954.0,-11290.0
+1166,BBB-030,Rounding Value / MOQ,[1/ 6],Balance(+SR+PR),119.0,370.0,120.0,634.0,658.0,1162.0,706.0,370.0
+1167,BBB-030,Cover Days / Week Day / Max Level,[7.0/ nan/ nan],Balance(+SR+1st PR),-1178.0,-7887.0,-1177.0,-2463.0,-4563.0,-5715.0,-7551.0,-7887.0
+1168,CFC-150,Item Code,CFC-150,Gross Req,2889.0,4206.0,118.0,659.0,1064.0,1215.0,881.0,269.0
+1169,CFC-150,Description,Carbon Fibre Cloth 150g UD roll 1m length,Scheduled Rcpt,0.0,60.0,0.0,60.0,0.0,0.0,0.0,0.0
+1170,CFC-150,Current stock,410.0,planned_receipt,2920.0,4340.0,0.0,2400.0,0.0,1940.0,0.0,0.0
+1171,CFC-150,Lead Time,21,planned_release,7260.0,4260.0,0.0,0.0,2020.0,0.0,0.0,2240.0
+1172,CFC-150,Safety Stock,50,Balance,-2479.0,-6685.0,-2597.0,-3256.0,-4320.0,-5535.0,-6416.0,-6685.0
+1173,CFC-150,Order Policy,COVER_DAYS,Balance (+SR),-2479.0,-6625.0,-2597.0,-3196.0,-4260.0,-5475.0,-6356.0,-6625.0
+1174,CFC-150,Rounding Value / MOQ,[20/ 20],Balance(+SR+PR),441.0,635.0,323.0,2124.0,1060.0,1785.0,904.0,635.0
+1175,CFC-150,Cover Days / Week Day / Max Level,[14.0/ nan/ nan],Balance(+SR+1st PR),441.0,-3705.0,323.0,-276.0,-1340.0,-2555.0,-3436.0,-3705.0
