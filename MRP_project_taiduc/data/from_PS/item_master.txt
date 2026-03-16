@@ -1,0 +1,148 @@
+﻿item_code	desc	uom	vendor	category
+HBG-420	Handlebars Gravel 420mm	pcs	PS Cycles	Fng
+HBG-440	Handlebars Gravel 440mm	pcs	PS Cycles	Fng
+HBG-460	Handlebars Gravel 460mm	pcs	PS Cycles	Fng
+HBM-740	Handlebars XC 740mm	pcs	PS Cycles	Fng
+ACS-165	Aluminium Crankset 165mm	pcs	PS Cycles	Fng
+AST-055	Aluminium Stem 55mm	pcs	PS Cycles	Fng
+AST-070	Aluminium Stem 70mm	pcs	PS Cycles	Fng
+ABB-068	Bottom Bracket Aluminium Threaded 68mm	pcs	PS Cycles	Fng
+ABB-073	Bottom Bracket Aluminium Threaded 73mm	pcs	PS Cycles	Fng
+CCS-170	Carbon Crankset 170mm	pcs	PS Cycles	Fng
+GRB-003	20GR Gravel Bike - Small	pcs	PS Cycles	Fng
+GRB-005	20GR Gravel Bike - Medium	pcs	PS Cycles	Fng
+GRB-007	20GR Gravel Bike - Large	pcs	PS Cycles	Fng
+GRF-003	20GR Gravel/CX Bike Frameset - Small	pcs	PS Cycles	Fng
+GRF-005	20GR Gravel/CX Bike Frameset - Medium	pcs	PS Cycles	Fng
+GRF-007	20GR Gravel/CX Bike Frameset - Large	pcs	PS Cycles	Fng
+GRK-000	20GR Gravel/CX Bike Carbon fork 700c	pcs	PS Cycles	Fng
+RIM-127	Rim - 275 XC	pcs	PS Cycles	Fng
+RIM-427	Rim - 275 Enduro/Trail	pcs	PS Cycles	Fng
+RIM-429	Rim - 295 Enduro/Trail	pcs	PS Cycles	Fng
+RIM-700	Rim - 700c Gravel	pcs	PS Cycles	Fng
+TRB-403	140mm Trail Mountain Bike - Small	pcs	PS Cycles	Fng
+TRB-405	140mm Trail Mountain Bike - Medium	pcs	PS Cycles	Fng
+TRB-407	140mm Trail Mountain Bike - Large	pcs	PS Cycles	Fng
+TRF-403	140mm Trail Frameset - Small	pcs	PS Cycles	Fng
+TRF-405	140mm Trail Frameset - Medium	pcs	PS Cycles	Fng
+TRF-407	140mm Trail Frameset - Large	pcs	PS Cycles	Fng
+WLS-127	Wheelset 295 with XC rims	pcs	PS Cycles	Fng
+WLS-427	Wheelset 275 with Enduro/Trail Wide rims	pcs	PS Cycles	Fng
+WLS-429	Wheelset 295 with Enduro/Trail Wide rims	pcs	PS Cycles	Fng
+WLS-723	Wheelset 700c with 23mm rims	pcs	PS Cycles	Fng
+XCB-103	110mm XC Mountain Bike - Small	pcs	PS Cycles	Fng
+XCB-105	110mm XC Mountain Bike - Medium	pcs	PS Cycles	Fng
+XCB-107	110mm XC Mountain Bike - Large	pcs	PS Cycles	Fng
+XCF-103	110mm XC Frameset - Small	pcs	PS Cycles	Fng
+XCF-105	110mm XC Frameset - Medium	pcs	PS Cycles	Fng
+XCF-107	110mm XC Frameset - Large	pcs	PS Cycles	Fng
+ASL-110	Alloy Suspension Link - XC	pcs	PS Cycles	Fng
+ASL-140	Alloy Suspension Link Kit - Trail	pcs	PS Cycles	Fng
+ASL-170	Alloy Suspension Link Kit - Enduro	pcs	PS Cycles	Fng
+ENB-703	170mm Enduro Mountain Bike - Small	pcs	PS Cycles	Fng
+ENB-705	170mm Enduro Mountain Bike - Medium	pcs	PS Cycles	Fng
+ENB-707	170mm Enduro Mountain Bike - Large	pcs	PS Cycles	Fng
+ENF-703	170mm Enduro Frameset - Small	pcs	PS Cycles	Fng
+ENF-705	170mm Enduro Frameset - Medium	pcs	PS Cycles	Fng
+ENF-707	170mm Enduro Frameset - Large	pcs	PS Cycles	Fng
+HBM-750	Handlebars Enduro/Trail 750mm	pcs	PS Cycles	Fng
+HBM-800	Handlebars Enduro/Trail 800mm	pcs	PS Cycles	Fng
+ACR-032	Chainring 32T Alloy SB	pcs	Alubits	Component
+ACR-034	Chainring 34T Alloy SB	pcs	Alubits	Component
+ACR-036	Chainring 36T Alloy	pcs	Alubits	Component
+ACR-038	Chainring 38T Alloy	pcs	Alubits	Component
+ALB-754	Aluminium Billet 7075 size 4	pcs	ALCO	Component
+ALB-756	Aluminium Billet 7075 size 6	pcs	ALCO	Component
+ALB-758	Aluminium Billet 7075 size 8	pcs	ALCO	Component
+AXL-150	7150 Al Crank Axle	pcs	Alubits	Component
+BBB-030	Bottom Bracket Bearings 30mm Axle	pcs	Enduro	Component
+BBS-068	Bottom Bracket Seal Kit 68mm	pcs	Enduro	Component
+BBS-073	Bottom Bracket Seal Kit 73mm	pcs	Enduro	Component
+BRK-134	Shimano GRX Disc Brake Front	pcs	Shimano	Component
+BRK-135	Shimano GRX Disc Brake Rear	pcs	Shimano	Component
+BRK-202	Formula Cura Disc Brake Front	pcs	Formula	Component
+BRK-204	Formula Cura Disc Brake Rear	pcs	Formula	Component
+BRK-402	Formula Cura 4 Disc Brake Front	pcs	Formula	Component
+BRK-404	Formula Cura 4 Disc Brake Rear	pcs	Formula	Component
+CFC-150	Carbon Fibre Cloth 150g UD roll 1m length	pcs	C-Fibre Supplies	Component
+CFC-245	Carbon Fibre Cloth 245g UD roll 1m length	pcs	C-Fibre Supplies	Component
+CFC-416	Carbon Fibre Cloth 416g UD roll 1m length	pcs	C-Fibre Supplies	Component
+CGS-001	Cable Grommets Gravel	pcs	Plakky	Component
+CHN-511	KMC Chain X11 EPT Anti-Rust Chain	pcs	KMC	Component
+CHN-512	KMC Chain X12 EPT Anti-Rust Chain	pcs	KMC	Component
+CHN-513	KMC Chain X12SL Ti-N Chain	pcs	KMC	Component
+CPC-120	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Cranks	pcs	C-Fibre Supplies	Component
+CPE-173	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Small	pcs	PS Cycles	Component
+CPE-175	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Medium	pcs	PS Cycles	Component
+CPE-177	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Enduro Frame Large	pcs	PS Cycles	Component
+CPK-103	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Small	pcs	PS Cycles	Component
+CPK-105	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Medium	pcs	PS Cycles	Component
+CPK-107	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Gravel Frame Large	pcs	PS Cycles	Component
+CPK-113	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Small	pcs	PS Cycles	Component
+CPK-115	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Medium	pcs	PS Cycles	Component
+CPK-117	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - XC Frame Large	pcs	PS Cycles	Component
+CPK-143	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Small	pcs	PS Cycles	Component
+CPK-145	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Medium	pcs	PS Cycles	Component
+CPK-147	Cut Pieces Kit- 150g UD Carbon Fibre Cloth - Trail Frame Large	pcs	PS Cycles	Component
+CPK-200	Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Gravel Frame	pcs	PS Cycles	Component
+CPK-210	Cut Pieces Kit- 245g UD Carbon Fibre Cloth - XC Frame	pcs	PS Cycles	Component
+CPK-220	Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Cranks	pcs	C-Fibre Supplies	Component
+CPK-240	Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Trail Frame	pcs	PS Cycles	Component
+CPK-270	Cut Pieces Kit- 245g UD Carbon Fibre Cloth - Enduro Frame	pcs	PS Cycles	Component
+CPK-440	Cut Pieces Kit- 416g UD Carbon Fibre Cloth - Trail Frame	pcs	PS Cycles	Component
+CPK-470	Cut Pieces Kit- 416g UD Carbon Fibre Cloth - Enduro Frame	pcs	PS Cycles	Component
+CSS-812	Shimano XT M8000 Cassette 12 speed	pcs	Shimano	Component
+CSS-912	Shimano XTR M8000 Cassette 12 speed	pcs	Shimano	Component
+CST-050	Carbon light Stem 50mm	pcs	Rain Forest Products	Component
+DCL-110	Decals - Frame - XC	pcs	Decal Master	Component
+DCL-140	Decals - Frame - Trail	pcs	Decal Master	Component
+DCL-170	Decals - Frame - Enduro	pcs	Decal Master	Component
+FHB-932	Front Hub Boost 32h	pcs	DT Swiss	Component
+FRK-429	RockShox SID Ultimate fork 295	pcs	RockShox	Component
+FRK-727	RockShox Lyrik Ultimate fork 275	pcs	RockShox	Component
+FRK-729	RockShox Lyrik Ultimate fork 295	pcs	RockShox	Component
+FRK-829	RockShox Zeb Ultimate fork 295	pcs	RockShox	Component
+GRS-110	Grommet set - XC	pcs	Plakky	Component
+GRS-140	Grommet set - Trail	pcs	Plakky	Component
+GRS-170	Grommet set - Enduro	pcs	Plakky	Component
+GTP-100	Grip Tape	pcs	Plakky	Component
+HBG-100	DMR Deathgrip Handlebar Grips black	pcs	DMR	Component
+HSX-040	Cane Creek 40-Series Headset	pcs	Cane Creek	Component
+HSX-214	Tapered Headset	pcs	Cane Creek	Component
+MEC-813	Shimano XT M8000 Derailleur 12 speed	pcs	Shimano	Component
+MEC-913	Shimano XTR M8000 Derailleur 12 speed	pcs	Shimano	Component
+MIB-111	Mould Inflation Bag - Frame	pcs	C-Fibre Supplies	Component
+MIB-112	Mould Inflation Bag - Rims	pcs	C-Fibre Supplies	Component
+MIB-113	Mould Inflation Bag HB Crank	pcs	C-Fibre Supplies	Component
+MIB-114	Mould Inflation Bag HB Drop	pcs	C-Fibre Supplies	Component
+MIB-115	Mould Inflation Bag HB Straight	pcs	C-Fibre Supplies	Component
+PBK-110	Pivot Bolt Kit - XC	pcs	Ti-Al Hardware	Component
+PBK-140	Pivot Bolt Kit - Trail	pcs	Ti-Al Hardware	Component
+PBK-170	Pivot Bolt Kit - Enduro	pcs	Ti-Al Hardware	Component
+PCC-101	Clear coat, 5ltr	pcs	C-Fibre Supplies	Component
+PDL-200	DMR Vault Pedals	pcs	DMR	Component
+RHB-732	Rear Hub Superlight 32h 12 speed hub MS	pcs	DT Swiss	Component
+RHB-932	Rear Hub Superboost 32h 12 speed hub MS	pcs	DT Swiss	Component
+RIM-333	Rim Tape	pcs	Plakky	Component
+SDL-147	Koda TI Saddle black	pcs	Koda	Component
+SDL-239	WTB Volt Saddle black	pcs	WTB	Component
+SHX-410	RockShox SIDLUXE Ultimate	pcs	RockShox	Component
+SHX-708	RockShox Super Deluxe Ultimate Air RCT	pcs	RockShox	Component
+SHX-709	RockShox Super Deluxe Ultimate Coil RCT	pcs	RockShox	Component
+SPD-080	BikeYoke Divine SL 80mm Seatpost	pcs	BikeYoke	Component
+SPK-102	Sapim straight-pull Light spokes	pcs	Sapim	Component
+SPK-105	Sapim straight-pull spokes	pcs	Sapim	Component
+SPR-160	BikeYoke Revive 2.0 160mm Seatpost	pcs	BikeYoke	Component
+SPR-185	BikeYoke Revive 2.0 185mm Seatpost	pcs	BikeYoke	Component
+SPR-213	BikeYoke Revive 2.0 213mm Seatpost	pcs	BikeYoke	Component
+TBV-100	Tubeless valves - Presta	pcs	Ti-Al Hardware	Component
+TYR-170	Maxxis All Terrane Folding Tyre 700c	pcs	Maxxis	Component
+TYR-229	"Maxxis Rekon Folding Tyre 29x2.20"""	pcs	Maxxis	Component
+TYR-427	"Maxxis Aggressor DHF Folding Tyre 27.5x2.35"""	pcs	Maxxis	Component
+TYR-429	"Maxxis Aggressor DHF Folding Tyre 29x2.35"""	pcs	Maxxis	Component
+TYR-727	"Maxxis Minion DHF Folding Tyre 27.5x2.50"""	pcs	Maxxis	Component
+TYR-729	"Maxxis Minion DHF Folding Tyre 29x2.50"""	pcs	Maxxis	Component
+TYR-827	"Maxxis Minion DHR II Folding Tyre 27.5x2.50"""	pcs	Maxxis	Component
+TYR-829	"Maxxis Minion DHR II Folding Tyre 29x2.50"""	pcs	Maxxis	Component
+TAIDUC-001	Trading RM, Pokemon Fish 001	pcs	PS Cycles	Component
+TAIDUC-002	Trading RM, Pokemon Fish 002	pcs	PS Cycles	Component
