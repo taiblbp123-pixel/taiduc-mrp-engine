@@ -1,6 +1,0 @@
-item_code,procurement_type,policy_name,lead_time,safety_stock,rounding_value,MOQ,cover_days,week_day,max_level
-A,FNG,L4L,2,200,1,1,,,
-B,ASSEMBLY,FIXED,1,300,500,500,,,
-C,RAW,COVER_DAYS,7,199,1000,1000,7.0,,
-D,ASSEMBLY,WEEKLY_CALENDAR,1,1000,5000,5000,,Tuesday,
-E,RAW,MIN_MAX,7,0,5000,5000,,,30000.0

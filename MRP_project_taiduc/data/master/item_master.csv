@@ -1,6 +1,0 @@
-item_code,desc,uom,vendor,category
-A,Finished Good A,PCS,V001,FG
-B,Finished Good B,PCS,V002,FG
-C,Component C,PCS,V004,RM
-E,Finished Good D,PCS,V004,FG
-D,Component E,PCS,V005,RM
