@@ -8,7 +8,7 @@ TODAY = pd.Timestamp("2023-01-01")  or datetime.today() #YOU pd.Timestamp("2025-
 
 PATH_MASTER = "./data/from_PS" #"./data/master"
 PATH_TRANSACTION = "./data/from_PS" #"./data/transaction"
-PATH_OUTPUT = "./data/output"
+PATH_OUTPUT = "./output"
 
 FILE_ITEM = "item_master.txt"
 FILE_BOM = "bom_master.txt"

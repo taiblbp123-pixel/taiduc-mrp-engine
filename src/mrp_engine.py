@@ -1,11 +1,10 @@
 import pandas as pd
-import time
 from collections import defaultdict, deque
 
 
-from helpers.helper import *
-from helpers.task_mrp import *
-from helpers.task_display import *
+from src.helper import *
+from src.task_mrp import *
+from src.task_display import *
 
 
 from config import (DEFAULT_POLICY, POLICY_VALID_VALUES,
@@ -270,10 +269,6 @@ def main():
     writting_result(data = display_result)
     
 
-if __name__ == "__main__":
-    
-    start_time = time.time()
-    main()
-    print(f"Execution time: {time.time() - start_time:.2f} seconds")
+
     
     
