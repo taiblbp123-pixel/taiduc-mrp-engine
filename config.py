@@ -26,7 +26,7 @@ HORIZON_DATE = { "Daily" : [30, 60, 90, 120],
                  "Weekly": [12, 24, 36, 48]
                 }
 HORIZON_MODE_LIST = ["Daily","Weekly"]
-HORIZON_MODE_CHOICE = "Weekly"
+HORIZON_MODE_CHOICE = "Daily"
 
 HORIZON_DEFAULT_DAYS = 30 #COMPUTATION: default: max_index < max_default thì kéo up-to, max_date >= max_default thì keep max_date
 HORIZON_END_DAYS = TODAY + pd.Timedelta(days=HORIZON_DEFAULT_DAYS)
