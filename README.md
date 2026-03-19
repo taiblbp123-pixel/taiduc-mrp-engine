@@ -2,15 +2,17 @@
 
 *A comprehensive Python-based Material Requirements Planning (MRP) system designed to calculate material requirements, plan production schedules, and generate order recommendations for manufacturing operations.*
 
+
+
 **Features**
 
-- **Comprehensive MRP Calculation**: *Implements full MRP logic including net requirements calculation, lot sizing, and planned order generation*
-- **Flexible Procurement Policies**: *Supports multiple procurement types (RAW, ASSEMBLY, FNG) and ordering policies (L4L, FOQ, WEEKLY_CALENDAR, COVER_DAYS, MIN_MAX)*
-- **Multi-level BOM Support**: *Handles complex bill-of-materials with dependent demand calculations*
-- **Time-phased Planning**: *Supports daily and weekly planning horizons with configurable lead times*
-- **Safety Stock Management**: *Configurable safety stock levels for inventory management*
-- **Data Validation**: *Robust input validation and error handling*
-- **Report Generation**: *Multiple output formats including CSV reports and display tables*
+- **Comprehensive MRP Calculation**: Implements full MRP logic including net requirements calculation, lot sizing, and planned order generation
+- **Flexible Procurement Policies**: Supports multiple procurement types (RAW, ASSEMBLY, FNG) and ordering policies (L4L, FOQ, WEEKLY_CALENDAR, COVER_DAYS, MIN_MAX)
+- **Multi-level BOM Support**: Handles complex bill-of-materials with dependent demand calculations
+- **Time-phased Planning**: Supports daily and weekly planning horizons with configurable lead times
+- **Safety Stock Management**: Configurable safety stock levels for inventory management
+- **Data Validation**: Robust input validation and error handling
+- **Report Generation**: Multiple output formats including CSV reports and display tables
 
 ## Table of Contents
 
