@@ -1,31 +1,26 @@
 # MRP Planning System
 
-A comprehensive Python-based Material Requirements Planning (MRP) system designed to calculate material requirements, plan production schedules, and generate order recommendations for manufacturing operations.
+*A comprehensive Python-based Material Requirements Planning (MRP) system designed to calculate material requirements, plan production schedules, and generate order recommendations for manufacturing operations.*
 
 **Features**
 
-- **Comprehensive MRP Calculation**: Implements full MRP logic including net requirements calculation, lot sizing, and planned order generation
-- **Flexible Procurement Policies**: Supports multiple procurement types (RAW, ASSEMBLY, FNG) and ordering policies (L4L, FOQ, WEEKLY_CALENDAR, COVER_DAYS, MIN_MAX)
-- **Multi-level BOM Support**: Handles complex bill-of-materials with dependent demand calculations
-- **Time-phased Planning**: Supports daily and weekly planning horizons with configurable lead times
-- **Safety Stock Management**: Configurable safety stock levels for inventory management
-- **Data Validation**: Robust input validation and error handling
-- **Report Generation**: Multiple output formats including CSV reports and display tables
+- **Comprehensive MRP Calculation**: *Implements full MRP logic including net requirements calculation, lot sizing, and planned order generation*
+- **Flexible Procurement Policies**: *Supports multiple procurement types (RAW, ASSEMBLY, FNG) and ordering policies (L4L, FOQ, WEEKLY_CALENDAR, COVER_DAYS, MIN_MAX)*
+- **Multi-level BOM Support**: *Handles complex bill-of-materials with dependent demand calculations*
+- **Time-phased Planning**: *Supports daily and weekly planning horizons with configurable lead times*
+- **Safety Stock Management**: *Configurable safety stock levels for inventory management*
+- **Data Validation**: *Robust input validation and error handling*
+- **Report Generation**: *Multiple output formats including CSV reports and display tables*
 
 ## Table of Contents
 
-- [Features](#features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Format](#data-format)
+
+- [Requirement and Installation](#requirement-and-installation)
+- [How to use](#how-to-use)
+- [Input](#input)
 - [Output](#output)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+- [Architecture](#architecture)
+
 
 
 
@@ -56,7 +51,7 @@ A comprehensive Python-based Material Requirements Planning (MRP) system designe
    pip install pandas numpy
    ```
 
-4. Ensure data files are placed in the correct directories (see [Project Structure](#project-structure))
+4. Ensure data files are placed in the correct directories (see [Input](#input))
 
 
 
@@ -74,10 +69,10 @@ A comprehensive Python-based Material Requirements Planning (MRP) system designe
    ```
 
 
-The system generates several output files in `data/output/`:
+The system generates several output files in `output/`:
 - `mrp_display.csv`: Formatted MRP results for each item
 - `full_demand.csv`: Complete demand requirements
-- `order_recommendation_report_*.csv`: Procurement recommendations by priority
+- `order_recommendation_report_*.csv`: Order recommendations for purchasing and production
 
 
 Note: Modify `config.py` to adjust:
@@ -85,24 +80,76 @@ Note: Modify `config.py` to adjust:
 - Default policies
 - File paths
 - Procurement parameters
-(see [Project Structure](#project-structure))
+(see [Configuration](#configuration))
 
 
 
 
-## Dataset (input)
+
+
+
+
+## Output
+
+The system generates timestamped output directories containing:
+
+- **MRP Display**: Detailed MRP calculations for each item 
+- **Full Demand**: Consolidated demand requirements (from independent demand like sub-assembly)
+- **Order Recommendations**: Orders suggestions for production and purchasing
+  - Raw planned orderr
+  - Urgent requirements
+  - Weekly planned orders
+
+
+
+
+**MRP Display** : 
+- NOTE: you can choose **date view** or **week view** in `config.py`
+
+Week view:
+
+![MRP Display](docs/images/mrpdisplay_week.png)
+
+Date view:
+
+![MRP Display (daily)](docs/images/mrpdisplay_date.png)
+
+
+**Order Recommendation**:
+
+Weekly Summary:
+![Weekly Summary](docs/images/weekly_summary.png)
+
+
+
+
+**Full Demand** :
+   - column `source_item` : parent item of that item (eg: finished product of a raw material)
+   - column `source` : is that item from Sales Order , Supply Order *(scheduled_receipt)*, MRP calculation process *(planned_order)*
+![Full Demand](docs/images/fulldemand.png)
+
+
+
+
+
+## Input
 The dataset is placed the following files in `data/from_PS/`
 This is the input of the Planning System. I use 6 core datasets from 2 groups:
-- **master** (item_master, bom_master, policy_master): Static reference data that defines the product structure, item attributes, and planning rules - these are relatively stable and define the "what" and "how" of the planning system
-- **transaction** (demand_orders, supply_orders, onhand): Dynamic operational data representing current business activities - these change frequently and drive the planning calculations
+- **master** (item_master, bom_master, policy_master) : 
+   - **Static reference data** that defines the product structure, item attributes, and planning rules 
+   - these are relatively stable and define the "what" and "how" of the planning system
+- **transaction** (demand_orders, supply_orders, onhand): 
+   - **Dynamic operational data** representing current business activities 
+   - these change frequently and drive the planning calculations
 
-for more details:
+- for more details:
+
 
 | Name | File Name | Description | Schema |
 |------|-----------|-------------|--------|
 | Item Master | item_master.txt | Contains item definitions with descriptions, units of measure, vendors, and categories | ["item_code", "desc", "uom", "vendor", "category"] |
 | Bill of Materials | bom_master.txt | Defines parent-child relationships in the product structure with component quantities required per parent | ["parent", "component", "qty_per"] |
-| Policy Master | policy_master.txt | Procurement policies and parameters for each item including lead times, safety stock, and ordering rules | ["item_code", "procurement_type", "policy_name", "lead_time", "safety_stock", "rounding_value", "MOQ", "cover_days", "week_day", "max_level"] |
+| Policy Master | policy_master.txt | Planning policies and parameters for each item including lead times, safety stock, and ordering rules | ["item_code", "procurement_type", "policy_name", "lead_time", "safety_stock", "rounding_value", "MOQ", "cover_days", "week_day", "max_level"] |
 | Demand Orders | demand_orders.txt | Customer demand data showing required quantities by date | ["item_code", "qty", "date"] |
 | Supply Orders | supply_orders.txt | Scheduled receipts and incoming supply information | ["item_code", "qty", "date"] |
 | On-hand Inventory | onhand.txt | Current inventory levels for each item | ["item_code", "date", "qty"] |
@@ -110,38 +157,20 @@ for more details:
 Note: Make sure the schema of each table is correct (column name and order)
 
 
-
-## Result (output)
-
-The system generates timestamped output directories containing:
-
-- **MRP Display**: Detailed MRP calculations for each item
-- **Full Demand**: Consolidated demand requirements
-- **Order Recommendations**:
-  - Raw planned orders
-  - Urgent requirements
-  - Weekly planned orders
-
-
-
-
-
-
-
-
 ## Architecture
 Note: For those who want to understand the system logic
 The system follows a modular architecture with clear separation of responsibilities:
-- Core components
-- Data Flow
-- Key Algorithm
-- Configuration
+- [Core Components](#core-components)
+- [Data Flow](#data-flow)
+- [Key Algorithm](#key-algorithm)
+- [Configuration](#configuration)
+- [Project Structure](#project-structure)
 
 ### Core Components
 
-- **`run.py`**: run MRP logic
-- **`config.py`**: Centralized configuration management for paths, policies, and system parameters
-- **`src/`**: Utility modules containing core business logic
+- `run.py`: run MRP logic
+- `config.py`: Centralized configuration management for paths, policies, and system parameters
+- `src/`: Utility modules containing core business logic
   - `task_mrp.py`: MRP computation algorithms and data structures
   - `task_display.py`: Output formatting and report generation
   - `helper.py`: General utility functions for data processing and calculations
@@ -196,3 +225,42 @@ Supported policies include:
 
 
 
+
+
+### Project Structure
+
+
+```text
+├── run.py
+├── README.md
+├── config.py
+├── data
+│   ├── from_PS
+│   │   ├── bom_master.txt
+│   │   ├── demand_orders.txt
+│   │   ├── item_master.txt
+│   │   ├── onhand.txt
+│   │   ├── policy_master.txt
+│   │   └── supply_orders.txt
+│   ├── master
+│   │   ├── bom_master.csv
+│   │   ├── item_master.csv
+│   │   └── policy_master.csv
+│   └── transaction
+│       ├── demand_orders.csv
+│       ├── onhand.csv
+│       └── supply_orders.csv
+├── output
+│   ├── 2026-03-17_10-49-36
+│   │   ├── full_demand.csv
+│   │   ├── mrp_display.csv
+│   │   ├── order_recommendation_report_raw_planned_df.csv
+│   │   ├── order_recommendation_report_urgent_report_df.csv
+│   │   └── order_recommendation_report_weekly_planned_df.csv
+├── src
+│   ├── directory_tree.py
+│   ├── helper.py
+│   ├── mrp_engine.py
+│   ├── task_display.py
+│   └── task_mrp.py
+```

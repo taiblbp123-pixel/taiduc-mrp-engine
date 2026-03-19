@@ -7,7 +7,8 @@ __pycache__/
 # Raw heavy txt from system
 data/from_PS/
 
-
+# documentation
+docs/
 # Notebook folder
 notebook/
 
